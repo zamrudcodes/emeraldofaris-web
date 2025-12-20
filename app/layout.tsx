@@ -15,8 +15,38 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Emeraldo Faris",
-  description: "Personal portfolio of Emeraldo Faris",
+  metadataBase: new URL('https://emeraldofaris.com'),
+  title: {
+    default: "Emeraldo Faris",
+    template: "%s | Emeraldo Faris",
+  },
+  description: "Personal portfolio of Emeraldo Faris - Digital Marketer & Aspiring Software Engineer",
+  keywords: ["Emeraldo Faris", "Digital Marketing", "Software Engineer", "Portfolio", "Web Development"],
+  authors: [{ name: "Emeraldo Faris" }],
+  creator: "Emeraldo Faris",
+  openGraph: {
+    type: "website",
+    locale: "en_US",
+    url: "https://emeraldofaris.com",
+    title: "Emeraldo Faris",
+    description: "Personal portfolio of Emeraldo Faris - Digital Marketer & Aspiring Software Engineer",
+    siteName: "Emeraldo Faris",
+    images: [
+      {
+        url: "/icon", // Next.js will resolve this to the generated icon
+        width: 512,
+        height: 512,
+        alt: "Emeraldo Faris Logo",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary",
+    title: "Emeraldo Faris",
+    description: "Personal portfolio of Emeraldo Faris - Digital Marketer & Aspiring Software Engineer",
+    creator: "@emeraldofaris",
+    images: ["/icon"],
+  },
 };
 
 export default function RootLayout({
