@@ -54,6 +54,11 @@ export default function Page() {
                                         Bakso Tujuh Pemuda (Restaurant)
                                     </Link>
                                 </li>
+                                <li>
+                                    <Link href="https://rekobu.com" target="_blank" className="hover:text-[rgb(10,10,10)] transition-colors">
+                                        Rekobu (Book Recommendation Website)
+                                    </Link>
+                                </li>
                             </ul>
                         </div>
 
