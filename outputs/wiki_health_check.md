@@ -1,0 +1,49 @@
+# B7P Wiki Health Check Report
+
+*Auto-generated: 2026-05-31*
+
+## Wiki Stats
+- **Articles:** 6
+- **Total backlinks:** 28 cross-references antar artikel
+- **Raw data sources:** 4 files in `raw/`
+
+## Issues Found
+
+### ⚠️ Warnings (3)
+1. **index.md:** No source attribution line (tapi serve sebagai index, bukan content article — acceptable)
+2. **review-synthesis.md:** "Source" ditulis "Source:" bukan "Sumber:" — inconsistency
+3. **menu-analysis.md:** Pricing "Tabso" dan "Mie Ayam" marked as "?" — missing data
+
+### 🟢 Passed Checks
+- ✅ Semua artikel punya backlinks ke artikel lain
+- ✅ Semua artikel konten substantif (>200 words)
+- ✅ Semua artikel cross-reference raw data sources
+- ✅ No broken backlinks
+- ✅ Master index tersedia
+
+## Coverage Gaps (5)
+
+| Gap | Severity | Impact |
+|-----|----------|--------|
+| ESB sales data | 🔴 Critical | Gak bisa korelasi review ↔ revenue |
+| AGP monitoring | 🔴 Critical | Brand baru, 0 data |
+| Review text (3★) | 🟡 High | Gak tau root cause keluhan |
+| Competitor profiles | 🟡 High | Gak bisa analisis competitive positioning |
+| Financial data | 🟡 Medium | Gak bisa analisis unit economics |
+
+## Data Freshness
+
+| Source | Last Updated | Fresh? |
+|--------|-------------|--------|
+| Google Reviews | 2026-05-31 (live monitor) | 🟢 Fresh |
+| Social mentions | ~2025-2026 | 🟡 Mixed |
+| Brand profile | 2026-05-31 (compiled) | 🟢 Fresh |
+| ESB Sales | NEVER | 🔴 Missing |
+
+## Lint Recommendations
+
+1. **Auto-ingest ESB:** Cron job daily pull sales data ke `raw/sales/`
+2. **Auto-fill pricing gaps:** Query ESB untuk harga aktual menu
+3. **Standardize source format:** Semua artikel pakai format "Source: [[raw/...]]"
+4. **Auto-health-check:** Cron job weekly scan untuk broken links, stale data, coverage gaps
+5. **AGP mirror:** Clone struktur ini untuk Ayam Goreng Pandawa
