@@ -1,84 +1,44 @@
-# B7P Wiki — Laptop Setup Guide
+# Emeraldo Faris Knowledge Base — Laptop Setup
 
-Buat Mas Aldo. Setup sekali, after that tinggal `git pull` + buka Obsidian.
+## One-time setup
 
-## Prasyarat
-
-- [ ] Git terinstall di laptop (Mac/Windows) — https://git-scm.com
-- [ ] Obsidian terinstall — https://obsidian.md
-
-## Step 1: Clone repo ke laptop
-
+1. **Clone repo:**
 ```bash
-cd ~/Documents  # atau folder mana aja
-git clone https://github.com/emeraldofaris/b7p-wiki.git
+git clone https://github.com/emeraldofaris/emeraldo-faris.git
 ```
 
-**Note:** Ini private repo. Pas pertama kali clone, GitHub bakal minta login.
-- Username: `emeraldofaris`
-- Password: Personal Access Token (bikin di https://github.com/settings/tokens)
+2. **Buka di Obsidian:**
+   - Buka Obsidian → "Open folder as vault"
+   - Pilih folder `emeraldo-faris`
 
-Atau lebih bagus pake GitHub Desktop: https://desktop.github.com
+3. **Install plugin Obsidian Git** — auto-pull
+   - Settings → Community plugins → Browse → "Obsidian Git"
+   - Set auto-pull interval: 30 menit
+   - Auto-push: OFF (VPS yang nge-push)
 
-## Step 2: Buka di Obsidian
-
-1. Buka Obsidian
-2. Klik "Open folder as vault"
-3. Pilih folder `~/Documents/b7p-wiki`
-4. Done.
-
-## Step 3: Install plugin (opsional, rekomendasi)
-
-### Wajib:
-- **Obsidian Git** — auto-pull & auto-commit. Setting:
-  - Auto pull interval: 30 menit
-  - Auto push: off (VPS yang nge-push, laptop cuma pull)
-
-### Bagus buat punya (dari Karpathy):
-- **Marp Slides** — render markdown jadi slide deck (outputs/ bisa jadi presentasi)
-- **Note Refactor** — extract teks jadi note baru
-
-## Daily Workflow
-
-Setelah setup:
+## Daily use
 
 ```
-Pagi:         Buka Obsidian → wiki udah ke-update (Obsidian Git auto-pull)
-Siang/Sore:   Browse wiki, baca insights baru
-Kalau penasaran: Chat gue (Tom) di Telegram → tanya apapun tentang B7P → gue jawab grounded ke wiki
+Pagi:  Buka Obsidian → semua udah fresh (auto-pulled)
+Siang: Browse, search, baca insights baru
+Kapan aja: Chat Tom di Telegram → tanya apapun → jawaban dari wiki
 ```
 
-**Lo GAK PERNAH perlu nulis/edit wiki sendiri** — itu kerjaan LLM di VPS. Tapi kalau lo browse dan nemu yang mau diedit/ditambahin, edit aja langsung di Obsidian. Next compile, gue incorporate perubahan lo.
+## You never write the wiki yourself
+LLM (Hermes di VPS) handles everything:
+- Ingest raw data
+- Compile wiki articles with backlinks
+- Health checks
+- Git push
 
-## Yang terjadi di belakang layar
+## Vault structure
 
 ```
-┌─────────────────────────────────────────────┐
-│ VPS (Hermes)                                 │
-│                                              │
-│ 09:00 WIB — Cron job jalan:                  │
-│   • Pull latest dari GitHub                  │
-│   • Ingest raw data baru                     │
-│   • LLM compile/update wiki                  │
-│   • Health check                             │
-│   • Git commit + push ──────────┐            │
-│                                 │            │
-└─────────────────────────────────┼────────────┘
-                                  │
-                    GitHub (private repo)
-                                  │
-┌─────────────────────────────────┼────────────┐
-│ Laptop (Mas Aldo)               │            │
-│                                 ▼            │
-│ Obsidian Git auto-pull ───► Wiki terupdate   │
-│ Buka Obsidian → baca, browse, search         │
-└─────────────────────────────────────────────┘
+emeraldo-faris/
+├── b7p/         ← Bakso Tujuh Pemuda (live)
+├── agp/         ← Ayam Goreng Pandawa (pre-launch)
+├── mdi/         ← Marka Digital Indonesia
+├── mgp/         ← Marka Group Partners
+├── personal/    ← Books, learning, ideas
+└── cross-context/ ← Cross-pollination insights
 ```
-
-## Troubleshooting
-
-| Masalah | Solusi |
-|---------|--------|
-| "Authentication failed" pas clone | Pastiin token GitHub punya scope `repo`. Bikin baru kalau perlu. |
-| Wiki gak ke-update | Manual `git pull` di terminal. Atau klik "Pull" di Obsidian Git. |
-| Obsidian Git gak ke-install | Settings → Community plugins → Browse → "Obsidian Git" → Install |

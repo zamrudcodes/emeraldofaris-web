@@ -18,10 +18,11 @@
 - [[operations/menu-analysis]] — Breakdown menu: core vs new, price ladder
 
 ### 🔗 Raw Data Index
-- [[raw/reviews/google_reviews]] — 17 review rating (Google Maps)
-- [[raw/reviews/lemon8_review]] — Detailed food blogger review
-- [[raw/social/social_mentions]] — Instagram, TikTok, YouTube mentions
-- [[raw/research/brand_profile]] — Compiled brand facts
+- [[b7p/raw/reviews/google_reviews]] — 17 review rating (Google Maps)
+- [[b7p/raw/reviews/lemon8_review]] — Detailed food blogger review
+- [[b7p/raw/social/social_mentions]] — Instagram, TikTok, YouTube mentions
+- [[b7p/raw/research/brand_profile]] — Compiled brand facts
+- [[b7p/raw/sales/2026-05-31]] — Daily sales (Rp 67.6M)
 
 ## Quick Stats
 - **Rating:** 4.7★ (3,135 reviews)
