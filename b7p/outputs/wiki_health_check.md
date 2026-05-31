@@ -25,7 +25,7 @@
 
 | Gap | Severity | Impact |
 |-----|----------|--------|
-| ESB sales data | 🔴 Critical | Gak bisa korelasi review ↔ revenue |
+| ESB sales data | 🟡 Medium | Baru 1 hari data — belum cukup untuk analisis serius |
 | AGP monitoring | 🔴 Critical | Brand baru, 0 data |
 | Review text (3★) | 🟡 High | Gak tau root cause keluhan |
 | Competitor profiles | 🟡 High | Gak bisa analisis competitive positioning |
@@ -38,7 +38,7 @@
 | Google Reviews | 2026-05-31 (live monitor) | 🟢 Fresh |
 | Social mentions | ~2025-2026 | 🟡 Mixed |
 | Brand profile | 2026-05-31 (compiled) | 🟢 Fresh |
-| ESB Sales | NEVER | 🔴 Missing |
+| ESB Sales | 2026-05-31 (1 day) | 🟡 Started |
 
 ## Lint Recommendations
 

@@ -7,14 +7,14 @@
 
 ## Overall Sentiment: Strongly Positive (4.7★ baseline)
 
-### Rating Distribution (tracked: 17 of 3135 reviews)
+### Rating Distribution (tracked: 18 of 3135 reviews)
 
 ```
-5★ ████████████████████████ 71%
-4★ ██████                 18%
-3★ ████                   12%
-2★                         0%
-1★                         0%
+5★ █████████████████████████ 72%
+4★ ██████                    17%
+3★ ████                      11%
+2★                            0%
+1★                            0%
 ```
 
 ### Positive Themes (disebut di 3+ sumber)
@@ -38,18 +38,20 @@
 
 ### Sentiment Trend (May 29-31, 2026)
 
-Dari 8 review terbaru (3 hari):
-- 7 review 5★
+Dari 13 review terbaru (3 hari):
+- 11 review 5★
 - 1 review 4★
-- **Trend: Positif & stabil.** Review velocity: ~2-3/hari.
+- 1 review 3★ (M.Y. Ridha — teks tidak tersedia)
+- **Trend: Positif & stabil.** Review velocity: ~4-5/hari.
 
 ### Key Insight
 **Tetelan goreng bukan sekadar menu — dia adalah brand.** 80%+ konten (reviews, TikTok, Instagram) menyebut ini sebagai alasan utama datang. Ini adalah moat defensible selama kualitas dijaga + gak ada kompetitor yang copy dengan kualitas setara.
 
 ### Health Check Flags
 - ⚠️ **Missing:** Teks review 3★ — gak bisa analisis root cause
-- ⚠️ **Missing:** Data ESB sales untuk korelasi review ↔ revenue
-- ✅ **Green:** 0 review 1-2★ dalam sampel — tapi sample hanya 0.5% dari total
+- ✅ **Green:** 0 review 1-2★ dalam sampel 18 (0.6% dari total)
+- 🟢 **New:** ESB sales data mulai masuk (1 hari: 2026-05-31)
+- ⚠️ **Pending:** Korelasi review ↔ revenue — butuh lebih banyak data sales
 
 ### Questions for Further Research
 1. Apa isi review 3★? Pattern keluhan?

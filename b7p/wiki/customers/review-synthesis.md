@@ -34,8 +34,8 @@
 ### Review Velocity
 
 Dari tracked sample (May 29-31, 2026):
-- **~2-3 reviews/hari** di Google Maps
-- Semua 4-5★ dalam 3 hari terakhir
+- **~4-5 reviews/hari** di Google Maps (13 review dalam 3 hari)
+- 11× 5★, 1× 4★, 1× 3★ dalam 3 hari terakhir
 - Pattern: reviews masuk sepanjang hari, cluster di jam makan siang dan malam
 
 ### Customer Quote Board
