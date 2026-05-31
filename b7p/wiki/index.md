@@ -1,6 +1,6 @@
 # B7P Brand Intelligence Wiki — Master Index
 
-*Auto-compiled by LLM from `raw/` data. Last updated: 2026-05-31.*
+*Auto-compiled by LLM from `raw/` data. Last updated: 2026-06-01.*
 
 ## Wiki Structure
 

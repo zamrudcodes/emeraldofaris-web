@@ -1,11 +1,12 @@
 # B7P Wiki Health Check Report
 
-*Auto-generated: 2026-05-31*
+*Auto-generated: 2026-06-01*
 
 ## Wiki Stats
 - **Articles:** 6
 - **Total backlinks:** 28 cross-references antar artikel
 - **Raw data sources:** 4 files in `raw/`
+- **Review sample:** 19 reviews tracked (0 new since last check)
 
 ## Issues Found
 
@@ -25,7 +26,7 @@
 
 | Gap | Severity | Impact |
 |-----|----------|--------|
-| ESB sales data | 🟡 Medium | Baru 1 hari data — belum cukup untuk analisis serius |
+| ESB sales data | 🟡 Medium | Baru 2 hari data — masih di bawah threshold analisis |
 | AGP monitoring | 🔴 Critical | Brand baru, 0 data |
 | Review text (3★) | 🟡 High | Gak tau root cause keluhan |
 | Competitor profiles | 🟡 High | Gak bisa analisis competitive positioning |
@@ -35,7 +36,7 @@
 
 | Source | Last Updated | Fresh? |
 |--------|-------------|--------|
-| Google Reviews | 2026-05-31 (live monitor) | 🟢 Fresh |
+| Google Reviews | 2026-05-31 (last check: 18:01 UTC) | 🟢 Fresh (no new reviews since) |
 | Social mentions | ~2025-2026 | 🟡 Mixed |
 | Brand profile | 2026-05-31 (compiled) | 🟢 Fresh |
 | ESB Sales | 2026-05-31 (1 day) | 🟡 Started |
