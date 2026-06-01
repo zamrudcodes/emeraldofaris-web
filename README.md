@@ -4,14 +4,14 @@
 
 ## 🧭 Contexts
 
-| Context | Path | Status | What's Inside |
-|---------|------|--------|---------------|
-| **B7P** — Bakso Tujuh Pemuda | `[[b7p/index]]` | 🟢 Live | Reviews, daily sales, sentiment, moat analysis |
-| **AGP** — Ayam Goreng Pandawa | `agp/` | 🟡 Pre-launch | Market research, strategy, competitor tracking |
-| **MDI** — Marka Digital Indonesia | `mdi/` | ⬜ Setup | Client briefs, pitch decks, agency playbook |
-| **MGP** — Marka Group Partners | `mgp/` | ⬜ Setup | Holding strategy, portfolio, synergies |
-| **Personal** | `personal/` | ⬜ Setup | Books, Islamic learning, ideas, notes |
-| **Cross-Context** | `cross-context/` | ⬜ Setup | F&B patterns, MDI→TPR synergies, macro insights |
+| Context                           | Path             | Status        | What's Inside                                   |
+| --------------------------------- | ---------------- | ------------- | ----------------------------------------------- |
+| **B7P** — Bakso Tujuh Pemuda      | `[[b7p/index]]`  | 🟢 Live       | Reviews, daily sales, sentiment, moat analysis  |
+| **AGP** — Ayam Goreng Pandawa     | `agp/`           | 🟡 Pre-launch | Market research, strategy, competitor tracking  |
+| **MDI** — Marka Digital Indonesia | `mdi/`           | ⬜ Setup       | Client briefs, pitch decks, agency playbook     |
+| **MGP** — Marka Growth Partners   | `mgp/`           | ⬜ Setup       | Holding strategy, portfolio, synergies          |
+| **Personal**                      | `personal/`      | ⬜ Setup       | Books, Islamic learning, ideas, notes           |
+| **Cross-Context**                 | `cross-context/` | ⬜ Setup       | F&B patterns, MDI→TPR synergies, macro insights |
 
 ## 🔧 Automation
 
