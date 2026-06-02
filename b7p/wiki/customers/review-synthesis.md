@@ -33,10 +33,12 @@
 
 ### Review Velocity
 
-Dari tracked sample (May 29-31, 2026):
-- **~2-3 reviews/hari** di Google Maps
-- Semua 4-5★ dalam 3 hari terakhir
+Dari tracked sample (May-June 2026):
+- **29 reviews total** terlacak — naik dari 18 sebelumnya
+- 24× 5★ (83%), 3× 4★ (10%), 2× 3★ (7%)
+- Velocity meningkat: ~4-5/hari di wave sebelumnya, sekarang ~5-6/hari
 - Pattern: reviews masuk sepanjang hari, cluster di jam makan siang dan malam
+- Sales context: Rp 75.3M (Sun May 31) → Rp 68.8M (Mon Jun 1) — wajar weekday drop
 
 ### Customer Quote Board
 

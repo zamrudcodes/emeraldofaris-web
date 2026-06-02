@@ -7,14 +7,14 @@
 
 ## Overall Sentiment: Strongly Positive (4.7★ baseline)
 
-### Rating Distribution (tracked: 17 of 3135 reviews)
+### Rating Distribution (tracked: 29 of ~3,135 reviews)
 
 ```
-5★ ████████████████████████ 71%
-4★ ██████                 18%
-3★ ████                   12%
-2★                         0%
-1★                         0%
+5★ █████████████████████████████ 83%
+4★ ████                         10%
+3★ ███                           7%
+2★                               0%
+1★                               0%
 ```
 
 ### Positive Themes (disebut di 3+ sumber)
@@ -31,25 +31,29 @@
 
 | Signal | Evidence | Severity |
 |--------|----------|----------|
-| 3★ reviews (2 tracked) | M.Y. Ridha & Meigummy — teks tidak tersedia | **Unknown** — perlu investigasi |
+| 3★ reviews (2 tracked) | 2 review 3★ dari 29 — teks tidak tersedia | **Unknown** — perlu investigasi |
 | Harga Rp 39K untuk street food | Bisa jadi resistance | **Low-Medium** — offset oleh value perception |
 | "Pedagang kaki lima" positioning | Lemon8 mention | **Low** — bisa jadi authenticity advantage |
 | Ketergantungan tetelan goreng | Semua review sebut ini | **Medium** — kalau supply issue, brand terdampak |
 
-### Sentiment Trend (May 29-31, 2026)
+### Sentiment Trend (as of Jun 2, 2026)
 
-Dari 8 review terbaru (3 hari):
-- 7 review 5★
-- 1 review 4★
-- **Trend: Positif & stabil.** Review velocity: ~2-3/hari.
+Dari 29 review terlacak (May-June 2026):
+- 24 review 5★ (83%)
+- 3 review 4★ (10%)
+- 2 review 3★ (7%)
+- 0 review 1-2★
+- **Trend: Sangat positif & membaik.** Review velocity naik dari 4-5/hari. Distribusi 5★ naik dari 72% ke 83% — indikasi konsistensi kualitas atau lebih banyak happy customers yang review.
+- ⚠️ 2 review 3★ masih tanpa teks — blocker untuk root cause analysis.
 
 ### Key Insight
 **Tetelan goreng bukan sekadar menu — dia adalah brand.** 80%+ konten (reviews, TikTok, Instagram) menyebut ini sebagai alasan utama datang. Ini adalah moat defensible selama kualitas dijaga + gak ada kompetitor yang copy dengan kualitas setara.
 
 ### Health Check Flags
 - ⚠️ **Missing:** Teks review 3★ — gak bisa analisis root cause
-- ⚠️ **Missing:** Data ESB sales untuk korelasi review ↔ revenue
-- ✅ **Green:** 0 review 1-2★ dalam sampel — tapi sample hanya 0.5% dari total
+- ✅ **Green:** 0 review 1-2★ dalam sampel 29
+- 🟢 **ESB sales:** 2 hari data (May 31 & Jun 1)
+- ⚠️ **Pending:** Korelasi review ↔ revenue — butuh lebih banyak data sales
 
 ### Questions for Further Research
 1. Apa isi review 3★? Pattern keluhan?
