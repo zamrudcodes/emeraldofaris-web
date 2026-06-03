@@ -38,8 +38,8 @@ Dari tracked sample (Nov 2025 - Jun 2026):
 - 26× 5★ (81%), 4× 4★ (13%), 2× 3★ (6%)
 - Velocity: ~4-7/hari, konsisten
 - Pattern: reviews masuk sepanjang hari, cluster di jam makan siang dan malam
-- Sales context 3 hari: Rp 75.3M (Sun) → Rp 68.8M (Mon) → Rp 20.8M (Tue)
-- ⚠️ Drop Selasa signifikan — perlu investigasi: apa ini pola normal weekday, atau ada faktor external?
+- Sales context 4 hari: Rp 75.3M (Sun) → Rp 68.8M (Mon) → Rp 20.8M (Tue) → Rp 24.7M (Wed)
+- ⚠️ Drop weekday signifikan — weekend:weekday ratio ~3.5:1. Rabu recover ringan (+19% dari Selasa) tapi masih jauh di bawah weekday Senin. Perlu 7+ hari data untuk konfirmasi pola.
 
 ### Customer Quote Board
 
@@ -61,4 +61,4 @@ Dari tracked sample (Nov 2025 - Jun 2026):
 | Demographics detail | Segmentasi terlalu kasar | Survey atau tiket data |
 | Repeat rate | Gak tau loyalitas | Butuh data ESB atau loyalty program |
 | AGP (Ayam Goreng Pandawa) | Belum ada data | Setup monitoring serupa |
-| Sales drop Selasa | Anomali revenue | Investigasi: pola normal atau faktor external? |
+| Sales drop weekday | Anomali revenue | Investigasi: pola normal atau faktor external? |

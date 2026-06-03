@@ -1,13 +1,13 @@
 # B7P Wiki Health Check Report
 
-*Auto-generated: 2026-06-03*
+*Auto-generated: 2026-06-04*
 
 ## Wiki Stats
 - **Articles:** 6
 - **Total backlinks:** 30+ cross-references antar artikel
-- **Raw data sources:** 6 files in `raw/`
-- **Review sample:** 32 reviews tracked (+3 since Jun 2 check: Ade Haris 5★, Penerangan Kodim 0818 4★, hurriyah proklamasi 5★)
-- **Sales data:** 3 hari (May 31, Jun 1, Jun 2)
+- **Raw data sources:** 7 files in `raw/` (+1 sales)
+- **Review sample:** 32 reviews tracked (no new reviews since Jun 2)
+- **Sales data:** 4 hari (May 31, Jun 1, Jun 2, Jun 3)
 
 ## Issues Found
 
@@ -28,7 +28,7 @@
 
 | Gap | Severity | Impact |
 |-----|----------|--------|
-| ESB sales data | 🟡 Medium | 3 hari data — masih di bawah threshold analisis trend (butuh 7+) |
+| ESB sales data | 🟡 Medium | 4 hari data — masih di bawah threshold analisis trend (butuh 7+) |
 | AGP monitoring | 🔴 Critical | Brand baru, 0 data |
 | Review text (3★) | 🟡 High | Gak tau root cause keluhan |
 | Competitor profiles | 🟡 High | Gak bisa analisis competitive positioning |
@@ -38,14 +38,14 @@
 
 | Source | Last Updated | Fresh? |
 |--------|-------------|--------|
-| Google Reviews | 2026-06-03 (32 tracked, +3) | 🟢 Fresh |
+| Google Reviews | 2026-06-03 (32 tracked) | 🟢 Fresh |
 | Social mentions | ~2025-2026 | 🟡 Mixed |
 | Brand profile | 2026-05-31 (compiled) | 🟢 Fresh |
-| ESB Sales | 2026-06-02 (3 days data) | 🟢 Growing |
+| ESB Sales | 2026-06-03 (4 days data) | 🟢 Growing |
 
 ## Lint Recommendations
 
-1. **Auto-ingest ESB:** Cron job daily pull sales data ke `raw/sales/`
+1. **Auto-ingest ESB:** Cron job daily pull sales data ke `raw/sales/` — ✅ running
 2. **Auto-fill pricing gaps:** Query ESB untuk harga aktual menu
 3. **Standardize source format:** Semua artikel pakai format "Source: [[raw/...]]"
 4. **Auto-health-check:** Cron job weekly scan untuk broken links, stale data, coverage gaps

@@ -1,6 +1,6 @@
 # B7P Brand Intelligence Wiki — Master Index
 
-*Auto-compiled by LLM from `raw/` data. Last updated: 2026-06-03.*
+*Auto-compiled by LLM from `raw/` data. Last updated: 2026-06-04.*
 
 ## Wiki Structure
 
@@ -22,6 +22,7 @@
 - [[b7p/raw/reviews/lemon8_review]] — Detailed food blogger review
 - [[b7p/raw/social/social_mentions]] — Instagram, TikTok, YouTube mentions
 - [[b7p/raw/research/brand_profile]] — Compiled brand facts
+- [[b7p/raw/sales/2026-06-03]] — Daily sales (Rp 24.7M gross, Rp 22.5M net, Wednesday)
 - [[b7p/raw/sales/2026-06-02]] — Daily sales (Rp 20.8M gross, Rp 19.0M net, Tuesday)
 - [[b7p/raw/sales/2026-06-01]] — Daily sales (Rp 68.8M gross, Rp 62.9M net, Monday)
 - [[b7p/raw/sales/2026-05-31]] — Daily sales (Rp 75.3M gross, Rp 68.8M net, Sunday)
@@ -32,10 +33,10 @@
 - **Signature item:** Tetelan goreng (disebut di 80%+ konten)
 - **Price range:** Rp 16K – Rp 39K
 - **Halal:** MUI Certified
-- **Daily sales (latest):** Rp 20.8M (Tue Jun 2) / Rp 68.8M (Mon Jun 1) / Rp 75.3M (Sun May 31)
+- **Daily sales (latest):** Rp 24.7M (Wed Jun 3) / Rp 20.8M (Tue Jun 2) / Rp 68.8M (Mon Jun 1) / Rp 75.3M (Sun May 31)
 
 ## Wiki Health
 - **Articles:** 6
 - **Backlinks:** cross-referenced antar artikel
 - **Data freshness:** June 2026
-- **Coverage gaps:** Belum ada review teks lengkap, belum ada AGP data, ESB sales 3 hari (butuh 7+ untuk tren)
+- **Coverage gaps:** Belum ada review teks lengkap, belum ada AGP data, ESB sales 4 hari (butuh 7+ untuk tren)
