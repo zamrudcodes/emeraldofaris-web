@@ -1,13 +1,13 @@
 # B7P Wiki Health Check Report
 
-*Auto-generated: 2026-06-05*
+*Auto-generated: 2026-06-06*
 
 ## Wiki Stats
 - **Articles:** 6
 - **Total backlinks:** 30+ cross-references antar artikel
-- **Raw data sources:** 8 files in `raw/` (+1 sales)
-- **Review sample:** 35 reviews tracked (+3 new since Jun 4: Eva dian Nurmala, Riky Andriansyah, Dita Laksmita — all 5★)
-- **Sales data:** 5 hari (May 31 – Jun 4)
+- **Raw data sources:** 9 files in `raw/` (6 sales + 3 non-sales)
+- **Review sample:** 39 reviews tracked (+3 new since Jun 5: Rifal Mhmd, Deni Muhammad rasyid, Salman Azhar — all 5★)
+- **Sales data:** 6 hari (May 31 – Jun 5)
 
 ## Issues Found
 
@@ -28,7 +28,7 @@
 
 | Gap | Severity | Impact |
 |-----|----------|--------|
-| ESB sales data | 🟡 Medium | 5 hari data — hampir capai threshold analisis trend (butuh 2+ hari lagi) |
+| ESB sales data | 🟡 Medium | 6 hari data — hampir capai threshold analisis trend (butuh 1 hari lagi) |
 | AGP monitoring | 🔴 Critical | Brand baru, 0 data |
 | Review text (3★) | 🟡 High | Gak tau root cause keluhan |
 | Competitor profiles | 🟡 High | Gak bisa analisis competitive positioning |
@@ -38,10 +38,10 @@
 
 | Source | Last Updated | Fresh? |
 |--------|-------------|--------|
-| Google Reviews | 2026-06-04 (35 tracked) | 🟢 Fresh |
+| Google Reviews | 2026-06-05 (39 tracked) | 🟢 Fresh |
 | Social mentions | ~2025-2026 | 🟡 Mixed |
 | Brand profile | 2026-05-31 (compiled) | 🟢 Fresh |
-| ESB Sales | 2026-06-04 (5 days data) | 🟢 Growing |
+| ESB Sales | 2026-06-05 (6 days data) | 🟢 Growing |
 
 ## Lint Recommendations
 
