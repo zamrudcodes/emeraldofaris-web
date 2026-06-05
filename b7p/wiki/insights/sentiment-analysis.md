@@ -7,14 +7,14 @@
 
 ## Overall Sentiment: Strongly Positive (4.7★ baseline)
 
-### Rating Distribution (tracked: 32 of ~3,135 reviews)
+### Rating Distribution (tracked: 35 of ~3,135 reviews)
 
 ```
-5★ █████████████████████████████ 81%
-4★ █████                        13%
-3★ ██                            6%
-2★                               0%
-1★                               0%
+5★ ██████████████████████████████ 83%
+4★ █████                          11%
+3★ ██                              6%
+2★                                 0%
+1★                                 0%
 ```
 
 ### Positive Themes (disebut di 3+ sumber)
@@ -36,24 +36,25 @@
 | "Pedagang kaki lima" positioning | Lemon8 mention | **Low** — bisa jadi authenticity advantage |
 | Ketergantungan tetelan goreng | Semua review sebut ini | **Medium** — kalau supply issue, brand terdampak |
 
-### Sentiment Trend (as of Jun 3, 2026)
+### Sentiment Trend (as of Jun 5, 2026)
 
-Dari 32 review terlacak (Nov 2025 - June 2026):
-- 26 review 5★ (81%)
-- 4 review 4★ (13%)
+Dari 35 review terlacak (Nov 2025 - June 2026):
+- 29 review 5★ (83%)
+- 4 review 4★ (11%)
 - 2 review 3★ (6%)
 - 0 review 1-2★
-- **Trend: Sangat positif & stabil.** Review velocity konsisten di 4-7/hari. Masuknya 4★ baru (Penerangan Kodim 0818, Jun 2) geser distribusi 5★ dari 83% ke 81% — bukan sinyal negatif, natural variability di sampel kecil.
+- **Trend: Sangat positif & stabil.** Review velocity konsisten di 4-7/hari. 3 review baru Jun 4 (Eva dian Nurmala, Riky Andriansyah, Dita Laksmita) — semua 5★, geser distribusi 5★ dari 81% ke 83%.
 - ⚠️ 2 review 3★ masih tanpa teks — blocker untuk root cause analysis.
 - ⚠️ Grace Sancaya muncul 2x (Jun 1) — kemungkinan duplicate entry.
+- 🆕 **Sales 5-hari:** Rp 75.3M (Sun) → Rp 68.8M (Mon) → Rp 20.8M (Tue) → Rp 24.7M (Wed) → Rp 20.3M (Thu). Pola weekday Rp 20-25M vs weekend Rp 69-75M (3.5:1 ratio). Kamis flat dengan Selasa — konfirmasi weekday baseline di ~Rp 20M.
 
 ### Key Insight
 **Tetelan goreng bukan sekadar menu — dia adalah brand.** 80%+ konten (reviews, TikTok, Instagram) menyebut ini sebagai alasan utama datang. Ini adalah moat defensible selama kualitas dijaga + gak ada kompetitor yang copy dengan kualitas setara.
 
 ### Health Check Flags
 - ⚠️ **Missing:** Teks review 3★ — gak bisa analisis root cause
-- ✅ **Green:** 0 review 1-2★ dalam sampel 32
-- 🟢 **ESB sales:** 3 hari data (May 31, Jun 1, Jun 2)
+- ✅ **Green:** 0 review 1-2★ dalam sampel 35
+- 🟢 **ESB sales:** 5 hari data (May 31 – Jun 4)
 - ⚠️ **Pending:** Korelasi review ↔ revenue — butuh lebih banyak data sales
 - ⚠️ **Duplicate:** Grace Sancaya muncul 2x — perlu dedup
 
@@ -61,4 +62,4 @@ Dari 32 review terlacak (Nov 2025 - June 2026):
 1. Apa isi review 3★? Pattern keluhan?
 2. Apakah review 5★ drive repeat purchase? (butuh data ESB)
 3. Di jam berapa review paling banyak masuk? Korelasi dengan peak hours?
-4. Kenapa Selasa (Jun 2) drop drastis ke Rp 20.8M dari Rp 68.8M Senin? Libur/event?
+4. Weekday baseline ~Rp 20M sudah konfirmasi dengan 3 hari data (Tue/Wed/Thu). Kenapa Senin Rp 68.8M masih tinggi? Apakah Senin carryover dari weekend?
