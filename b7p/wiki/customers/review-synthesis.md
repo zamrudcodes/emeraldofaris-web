@@ -33,12 +33,13 @@
 
 ### Review Velocity
 
-Dari tracked sample (May-June 2026):
-- **29 reviews total** terlacak — naik dari 18 sebelumnya
-- 24× 5★ (83%), 3× 4★ (10%), 2× 3★ (7%)
-- Velocity meningkat: ~4-5/hari di wave sebelumnya, sekarang ~5-6/hari
+Dari tracked sample (Nov 2025 - Jun 2026):
+- **32 reviews total** terlacak — naik dari 29 kemarin
+- 26× 5★ (81%), 4× 4★ (13%), 2× 3★ (6%)
+- Velocity: ~4-7/hari, konsisten
 - Pattern: reviews masuk sepanjang hari, cluster di jam makan siang dan malam
-- Sales context: Rp 75.3M (Sun May 31) → Rp 68.8M (Mon Jun 1) — wajar weekday drop
+- Sales context 3 hari: Rp 75.3M (Sun) → Rp 68.8M (Mon) → Rp 20.8M (Tue)
+- ⚠️ Drop Selasa signifikan — perlu investigasi: apa ini pola normal weekday, atau ada faktor external?
 
 ### Customer Quote Board
 
@@ -60,3 +61,4 @@ Dari tracked sample (May-June 2026):
 | Demographics detail | Segmentasi terlalu kasar | Survey atau tiket data |
 | Repeat rate | Gak tau loyalitas | Butuh data ESB atau loyalty program |
 | AGP (Ayam Goreng Pandawa) | Belum ada data | Setup monitoring serupa |
+| Sales drop Selasa | Anomali revenue | Investigasi: pola normal atau faktor external? |
