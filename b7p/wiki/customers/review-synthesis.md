@@ -34,12 +34,13 @@
 ### Review Velocity
 
 Dari tracked sample (Nov 2025 - Jun 2026):
-- **39 reviews total** terlacak — naik dari 35 (3 baru Jun 5, semua 5★: Rifal Mhmd, Deni Muhammad rasyid, Salman Azhar)
-- 33× 5★ (85%), 4× 4★ (10%), 2× 3★ (5%)
+- **40 reviews total** terlacak (39 unique) — naik dari 39 (1 baru Jun 6: Fadia Ramadhan 5★)
+- 34× 5★ (85%), 4× 4★ (10%), 2× 3★ (5%)
 - Velocity: ~4-7/hari, konsisten
 - Pattern: reviews masuk sepanjang hari, cluster di jam makan siang dan malam
-- Sales context 6 hari: Rp 75.3M (Sun) → Rp 68.8M (Mon) → Rp 20.8M (Tue) → Rp 24.7M (Wed) → Rp 20.3M (Thu) → Rp 27.6M (Fri)
-- ⚠️ Weekday baseline ~Rp 20-25M terkonfirmasi (Tue-Fri). Jumat Rp 27.6M — kemungkinan efek weekend eve. Senin outlier di Rp 68.8M.
+- Sales context 7 hari (May 31 – Jun 6): Rp 75.3M (Sun) → Rp 68.8M (Mon) → Rp 20.8M (Tue) → Rp 24.7M (Wed) → Rp 20.3M (Thu) → Rp 27.6M (Fri) → Rp 51.8M (Sat)
+- 🆕 Sabtu (Jun 6): Rp 51.8M gross, 316 bills, AOV Rp 164K — konfirmasi efek weekend. Sabtu ~75% dari puncak Minggu (Rp 75.3M), signifikan di atas weekday baseline.
+- Weekday baseline ~Rp 20-25M terkonfirmasi penuh (Tue-Fri, 4 hari). Jumat Rp 27.6M — kemungkinan efek weekend eve. Senin Rp 68.8M masih outlier — carryover weekend.
 
 ### Customer Quote Board
 
@@ -61,4 +62,4 @@ Dari tracked sample (Nov 2025 - Jun 2026):
 | Demographics detail | Segmentasi terlalu kasar | Survey atau tiket data |
 | Repeat rate | Gak tau loyalitas | Butuh data ESB atau loyalty program |
 | AGP (Ayam Goreng Pandawa) | Belum ada data | Setup monitoring serupa |
-| Sales weekday baseline | Butuh lebih banyak data | 6 hari — tunggu 7+ untuk tren stabil |
+|| Sales weekday baseline | Butuh data tambahan | 7 hari — threshold analisis tercapai. Pola weekday vs weekend mulai jelas ✅ |

@@ -1,14 +1,14 @@
 # B7P Google Reviews - Raw Data Dump
 
 **Source:** Google Maps Places API via review monitor
-**Total reviews tracked:** 32
+**Total reviews tracked:** 40 (39 unique; 1 duplicate: Grace Sancaya)
 **Date range:** Nov 2025 - Jun 2026
 **Current rating:** 4.7★ (3135 reviews total, per Google Maps)
 
 ## Rating Distribution (from tracked sample)
-- ⭐⭐⭐⭐⭐ (5): 26 reviews (81%)
-- ⭐⭐⭐⭐ (4): 4 reviews (13%)
-- ⭐⭐⭐ (3): 2 reviews (6%)
+- ⭐⭐⭐⭐⭐ (5): 34 reviews (85%)
+- ⭐⭐⭐⭐ (4): 4 reviews (10%)
+- ⭐⭐⭐ (3): 2 reviews (5%)
 - ⭐⭐ (2): 0
 - ⭐ (1): 0
 
@@ -16,9 +16,17 @@
 
 | Date | Reviewer | Rating |
 |------|----------|--------|
-| 2026-06-02 | Penerangan Kodim 0818 | ⭐⭐⭐⭐ |
-| 2026-06-02 | Ade Haris | ⭐⭐⭐⭐⭐ |
-| 2026-06-01 | hurriyah proklamasi | ⭐⭐⭐⭐⭐ |
+|| 2026-06-06 | Fadia Ramadhan | ⭐⭐⭐⭐⭐ |
+|| 2026-06-05 | Salman Azhar (Isal) | ⭐⭐⭐⭐⭐ |
+|| 2026-06-05 | Deni Muhammad rasyid | ⭐⭐⭐⭐⭐ |
+|| 2026-06-05 | Rifal Mhmd | ⭐⭐⭐⭐⭐ |
+|| 2026-06-04 | Diwa Prasetyo | ⭐⭐⭐⭐⭐ |
+|| 2026-06-04 | Dita Laksmita | ⭐⭐⭐⭐⭐ |
+|| 2026-06-04 | Riky Andriansyah | ⭐⭐⭐⭐⭐ |
+|| 2026-06-04 | Eva dian Nurmala | ⭐⭐⭐⭐⭐ |
+|| 2026-06-02 | Penerangan Kodim 0818 | ⭐⭐⭐⭐ |
+|| 2026-06-02 | Ade Haris | ⭐⭐⭐⭐⭐ |
+|| 2026-06-01 | hurriyah proklamasi | ⭐⭐⭐⭐⭐ |
 | 2026-06-01 | Harris Tri Pratama | ⭐⭐⭐⭐⭐ |
 | 2026-06-01 | Grace Sancaya | ⭐⭐⭐⭐⭐ |
 | 2026-06-01 | Grace Sancaya | ⭐⭐⭐⭐⭐ |
@@ -52,11 +60,6 @@
 ## Notes
 - Only ratings tracked (review text not available via current Places API scrape)
 - 3-star reviews from M.Y. Ridha and Meigummy — text unknown
-<<<<<<< HEAD
-- 17/3135 = 0.5% of total reviews tracked
-- No 1 or 2 star reviews in tracked sample
-=======
-- 32/3135 = 1.0% of total reviews tracked
+- 40/3135 = 1.3% of total reviews tracked
 - No 1 or 2 star reviews in tracked sample
 - ⚠️ Grace Sancaya appears twice (Jun 1) — possible duplicate review
->>>>>>> origin/main
