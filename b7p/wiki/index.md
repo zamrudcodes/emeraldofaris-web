@@ -1,6 +1,6 @@
 # B7P Brand Intelligence Wiki — Master Index
 
-*Auto-compiled by LLM from `raw/` data. Last updated: 2026-06-07.*
+*Auto-compiled by LLM from `raw/` data. Last updated: 2026-06-08.*
 
 ## Wiki Structure
 
@@ -10,7 +10,7 @@
 - [[insights/product-moat]] — Analisis signature item & defensibility
 
 ### 👥 Customers
-- [[customers/review-synthesis]] — Apa yang pelanggan bilang (dari 39 review + social)
+- [[customers/review-synthesis]] — Apa yang pelanggan bilang (dari 47 review + social)
 - [[customers/segments]] — Profil pelanggan: siapa yang datang & kenapa
 
 ### 🏭 Operations
@@ -18,10 +18,11 @@
 - [[operations/menu-analysis]] — Breakdown menu: core vs new, price ladder
 
 ### 🔗 Raw Data Index
-- [[b7p/raw/reviews/google_reviews]] — 39 review rating (Google Maps, tracked sample)
+- [[b7p/raw/reviews/google_reviews]] — 47 review rating (Google Maps, tracked sample)
 - [[b7p/raw/reviews/lemon8_review]] — Detailed food blogger review
 - [[b7p/raw/social/social_mentions]] — Instagram, TikTok, YouTube mentions
 - [[b7p/raw/research/brand_profile]] — Compiled brand facts
+- [[b7p/raw/sales/2026-06-07]] — Daily sales (Rp 77.6M gross, Rp 70.7M net, Sunday)
 - [[b7p/raw/sales/2026-06-06]] — Daily sales (Rp 51.8M gross, Rp 47.3M net, Saturday)
 - [[b7p/raw/sales/2026-06-05]] — Daily sales (Rp 27.6M gross, Rp 25.2M net, Friday)
 - [[b7p/raw/sales/2026-06-04]] — Daily sales (Rp 20.3M gross, Rp 18.6M net, Thursday)
@@ -32,14 +33,14 @@
 
 ## Quick Stats
 - **Rating:** 4.7★ (3,135 reviews)
-- **Review sentiment:** 85% 5★ (34), 10% 4★ (4), 5% 3★ (2) — 0% 1-2★ in tracked sample of 40 (39 unique)
+- **Review sentiment:** 81% 5★ (38), 15% 4★ (7), 4% 3★ (2) — 0% 1-2★ in tracked sample of 47
 - **Signature item:** Tetelan goreng (disebut di 80%+ konten)
 - **Price range:** Rp 16K – Rp 39K
 - **Halal:** MUI Certified
-- **Daily sales (latest):** Rp 51.8M (Sat Jun 6) / Rp 27.6M (Fri Jun 5) / Rp 20.3M (Thu Jun 4) / Rp 24.7M (Wed Jun 3) / Rp 20.8M (Tue Jun 2)
+- **Daily sales (latest):** Rp 77.6M (Sun Jun 7) / Rp 51.8M (Sat Jun 6) / Rp 27.6M (Fri Jun 5) / Rp 20.3M (Thu Jun 4) / Rp 24.7M (Wed Jun 3)
 
 ## Wiki Health
 - **Articles:** 6
 - **Backlinks:** cross-referenced antar artikel
 - **Data freshness:** June 2026
-- **Coverage gaps:** Belum ada review teks lengkap, belum ada AGP data, ESB sales 7 hari — threshold analisis tren tercapai ✅
+- **Coverage gaps:** Belum ada review teks lengkap, belum ada AGP data, ESB sales 8 hari — pola weekday/weekend terkonfirmasi ✅

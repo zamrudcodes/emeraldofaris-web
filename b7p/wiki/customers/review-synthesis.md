@@ -34,13 +34,14 @@
 ### Review Velocity
 
 Dari tracked sample (Nov 2025 - Jun 2026):
-- **40 reviews total** terlacak (39 unique) — naik dari 39 (1 baru Jun 6: Fadia Ramadhan 5★)
-- 34× 5★ (85%), 4× 4★ (10%), 2× 3★ (5%)
+- **47 reviews total** terlacak — naik dari 40 (+7 reviews: 5 di Jun 7, 2 di Jun 6)
+- 38× 5★ (81%), 7× 4★ (15%), 2× 3★ (4%)
 - Velocity: ~4-7/hari, konsisten
 - Pattern: reviews masuk sepanjang hari, cluster di jam makan siang dan malam
-- Sales context 7 hari (May 31 – Jun 6): Rp 75.3M (Sun) → Rp 68.8M (Mon) → Rp 20.8M (Tue) → Rp 24.7M (Wed) → Rp 20.3M (Thu) → Rp 27.6M (Fri) → Rp 51.8M (Sat)
-- 🆕 Sabtu (Jun 6): Rp 51.8M gross, 316 bills, AOV Rp 164K — konfirmasi efek weekend. Sabtu ~75% dari puncak Minggu (Rp 75.3M), signifikan di atas weekday baseline.
-- Weekday baseline ~Rp 20-25M terkonfirmasi penuh (Tue-Fri, 4 hari). Jumat Rp 27.6M — kemungkinan efek weekend eve. Senin Rp 68.8M masih outlier — carryover weekend.
+- 🆕 Influx 4★ naik: 3 dari 7 review baru adalah 4★ (Ayu Maharani, Ridwan Arieftriansyah, Mommy Lie). Ini menormalkan distribusi — 5★ turun dari 85% ke 81%, 4★ naik dari 10% ke 15%. Bukan red flag (0 review 1-2★), tapi perlu dimonitor untuk shifting ekspektasi.
+- Sales context 7 hari (Jun 1 – Jun 7): Rp 68.8M (Mon) → Rp 20.8M (Tue) → Rp 24.7M (Wed) → Rp 20.3M (Thu) → Rp 27.6M (Fri) → Rp 51.8M (Sat) → Rp 77.6M (Sun)
+- 🆕 Minggu (Jun 7): Rp 77.6M gross, 411 bills, AOV Rp 189K — rekor baru. Weekend (Sat-Sun) sekarang ~Rp 52-78M, ratio ~3.5-4x dari weekday baseline Rp 20-25M.
+- Weekday baseline ~Rp 20-25M terkonfirmasi (Tue-Fri, 4 hari). Senin Rp 68.8M tetap outlier — carryover weekend atau efek libur.
 
 ### Customer Quote Board
 
@@ -62,4 +63,4 @@ Dari tracked sample (Nov 2025 - Jun 2026):
 | Demographics detail | Segmentasi terlalu kasar | Survey atau tiket data |
 | Repeat rate | Gak tau loyalitas | Butuh data ESB atau loyalty program |
 | AGP (Ayam Goreng Pandawa) | Belum ada data | Setup monitoring serupa |
-|| Sales weekday baseline | Butuh data tambahan | 7 hari — threshold analisis tercapai. Pola weekday vs weekend mulai jelas ✅ |
+| | Sales weekday baseline | Butuh data tambahan | 8 hari — threshold analisis tercapai. Pola weekday vs weekend jelas ✅ |
