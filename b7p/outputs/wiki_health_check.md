@@ -1,13 +1,13 @@
 # B7P Wiki Health Check Report
 
-*Auto-generated: 2026-06-08*
+*Auto-generated: 2026-06-09*
 
 ## Wiki Stats
 - **Articles:** 6
 - **Total backlinks:** 30+ cross-references antar artikel
-- **Raw data sources:** 11 files in `raw/` (8 sales + 3 non-sales)
-- **Review sample:** 47 reviews tracked (+7 since last compile: 5 Jun 7 + 2 Jun 6)
-- **Sales data:** 8 hari (May 31 – Jun 7) — pola weekday/weekend terkonfirmasi ✅
+- **Raw data sources:** 12 files in `raw/` (9 sales + 3 non-sales)
+- **Review sample:** 47 reviews tracked (no new since Jun 7 — 3 days since last new review)
+- **Sales data:** 9 hari (May 31 – Jun 8) — pola weekday/weekend terkonfirmasi ✅. Monday anomaly resolved: Jun 1 (Rp 68.8M) outlier dikonfirmasi oleh Jun 8 (Rp 29.2M normal). Monday baseline ~Rp 29M.
 
 ## Issues Found
 
@@ -29,7 +29,7 @@
 
 | Gap | Severity | Impact |
 |-----|----------|--------|
-| ESB sales data | 🟢 Resolved | 7 hari data — threshold analisis tren tercapai. Weekday vs weekend pattern confirmed. |
+| ESB sales data | 🟢 Resolved | 9 hari data — weekday/weekend pattern confirmed. Monday anomaly resolved. Now tracking Mon normal ~Rp 29M, Tue-Thu ~Rp 20-25M, Fri ~Rp 28M, Sat-Sun ~Rp 52-78M. |
 | AGP monitoring | 🔴 Critical | Brand baru, 0 data |
 | Review text (3★) | 🟡 High | Gak tau root cause keluhan |
 | Competitor profiles | 🟡 High | Gak bisa analisis competitive positioning |
@@ -42,7 +42,7 @@
 | Google Reviews | 2026-06-07 (47 tracked) | 🟢 Fresh |
 | Social mentions | ~2025-2026 | 🟡 Mixed |
 | Brand profile | 2026-05-31 (compiled) | 🟢 Fresh |
-| ESB Sales | 2026-06-07 (8 days data) | 🟢 Growing |
+| ESB Sales | 2026-06-08 (9 days data) | 🟢 Growing |
 
 ## Lint Recommendations
 
