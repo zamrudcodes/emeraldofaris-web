@@ -39,10 +39,10 @@ Dari tracked sample (Nov 2025 - Jun 2026):
 - Velocity: ~4-7/hari, konsisten
 - Pattern: reviews masuk sepanjang hari, cluster di jam makan siang dan malam
 - 🆕 Influx 4★ naik: 3 dari 7 review baru adalah 4★ (Ayu Maharani, Ridwan Arieftriansyah, Mommy Lie). Ini menormalkan distribusi — 5★ turun dari 85% ke 81%, 4★ naik dari 10% ke 15%. Bukan red flag (0 review 1-2★), tapi perlu dimonitor untuk shifting ekspektasi.
-- Sales context 8 hari (Jun 1 – Jun 8): Rp 68.8M (Mon) → Rp 20.8M (Tue) → Rp 24.7M (Wed) → Rp 20.3M (Thu) → Rp 27.6M (Fri) → Rp 51.8M (Sat) → Rp 77.6M (Sun) → Rp 29.2M (Mon)
-- 🆕 Senin normal (Jun 8): Rp 29.2M gross, 191 bills, AOV Rp 153K. Ini mengkonfirmasi bahwa Monday Jun 1 (Rp 68.8M) adalah outlier — kemungkinan libur/Lebaran carryover. Monday normal ~Rp 29M, sedikit di atas Tue-Thu (Rp 20-25M), post-weekend momentum.
+- Sales context 9 hari (Jun 1 – Jun 9): Rp 68.8M (Mon) → Rp 20.8M (Tue) → Rp 24.7M (Wed) → Rp 20.3M (Thu) → Rp 27.6M (Fri) → Rp 51.8M (Sat) → Rp 77.6M (Sun) → Rp 29.2M (Mon) → Rp 28.4M (Tue)
+- 🆕 Senin normal (Jun 8): Rp 29.2M gross, 191 bills, AOV Rp 153K. Ini mengkonfirmasi bahwa Monday Jun 1 (Rp 68.8M) adalah outlier — kemungkinan libur/Lebaran carryover. Selasa normal (Jun 9): Rp 28.4M, 190 bills, AOV Rp 150K — konsisten dengan Tuesday sebelumnya (Jun 2: Rp 20.8M, 160 bills).
 - Weekend (Sat-Sun) ~Rp 52-78M, ratio ~3-4x dari weekday baseline Rp 20-29M.
-- Weekday baseline ~Rp 20-29M terkonfirmasi (6 hari: Mon-Fri, 2 minggu data).
+- Weekday baseline ~Rp 20-29M terkonfirmasi (7 hari: Mon-Fri, 2.5 minggu data).
 
 ### Customer Quote Board
 
@@ -64,4 +64,4 @@ Dari tracked sample (Nov 2025 - Jun 2026):
 | Demographics detail | Segmentasi terlalu kasar | Survey atau tiket data |
 | Repeat rate | Gak tau loyalitas | Butuh data ESB atau loyalty program |
 | AGP (Ayam Goreng Pandawa) | Belum ada data | Setup monitoring serupa |
-| | Sales weekday baseline | Butuh data tambahan | 9 hari — threshold analisis tercapai. Pola weekday vs weekend jelas ✅. Monday anomaly resolved: Jun 1 (Rp 68.8M) outlier → Jun 8 (Rp 29.2M) normal |
+| | Sales weekday baseline | Butuh data tambahan | 10 hari — threshold analisis tercapai. Pola weekday vs weekend jelas ✅. Monday anomaly resolved: Jun 1 (Rp 68.8M) outlier → Jun 8 (Rp 29.2M) normal. Tuesday: Rp 20.8M (Jun 2), Rp 28.4M (Jun 9) — range normal. |

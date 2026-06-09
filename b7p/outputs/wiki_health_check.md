@@ -1,13 +1,13 @@
 # B7P Wiki Health Check Report
 
-*Auto-generated: 2026-06-09*
+*Auto-generated: 2026-06-10*
 
 ## Wiki Stats
 - **Articles:** 6
 - **Total backlinks:** 30+ cross-references antar artikel
-- **Raw data sources:** 12 files in `raw/` (9 sales + 3 non-sales)
-- **Review sample:** 47 reviews tracked (no new since Jun 7 — 3 days since last new review)
-- **Sales data:** 9 hari (May 31 – Jun 8) — pola weekday/weekend terkonfirmasi ✅. Monday anomaly resolved: Jun 1 (Rp 68.8M) outlier dikonfirmasi oleh Jun 8 (Rp 29.2M normal). Monday baseline ~Rp 29M.
+- **Raw data sources:** 13 files in `raw/` (10 sales + 3 non-sales)
+- **Review sample:** 47 reviews tracked (no new since Jun 7 — 4 days since last new review)
+- **Sales data:** 10 hari (May 31 – Jun 9) — pola weekday/weekend terkonfirmasi ✅. Monday anomaly resolved: Jun 1 (Rp 68.8M) outlier dikonfirmasi oleh Jun 8 (Rp 29.2M normal). Tuesday baseline Rp 20-28M (2 data point).
 
 ## Issues Found
 
@@ -29,7 +29,7 @@
 
 | Gap | Severity | Impact |
 |-----|----------|--------|
-| ESB sales data | 🟢 Resolved | 9 hari data — weekday/weekend pattern confirmed. Monday anomaly resolved. Now tracking Mon normal ~Rp 29M, Tue-Thu ~Rp 20-25M, Fri ~Rp 28M, Sat-Sun ~Rp 52-78M. |
+| ESB sales data | 🟢 Resolved | 10 hari data — weekday/weekend pattern confirmed. Monday anomaly resolved. Tuesday baseline: Rp 20.8M (Jun 2), Rp 28.4M (Jun 9). Now tracking Mon ~Rp 29M, Tue ~Rp 20-28M, Wed ~Rp 25M, Thu ~Rp 20M, Fri ~Rp 28M, Sat-Sun ~Rp 52-78M. |
 | AGP monitoring | 🔴 Critical | Brand baru, 0 data |
 | Review text (3★) | 🟡 High | Gak tau root cause keluhan |
 | Competitor profiles | 🟡 High | Gak bisa analisis competitive positioning |
@@ -39,10 +39,10 @@
 
 | Source | Last Updated | Fresh? |
 |--------|-------------|--------|
-| Google Reviews | 2026-06-07 (47 tracked) | 🟢 Fresh |
+| Google Reviews | 2026-06-07 (47 tracked) | 🟢 Fresh (4 days since last new) |
 | Social mentions | ~2025-2026 | 🟡 Mixed |
 | Brand profile | 2026-05-31 (compiled) | 🟢 Fresh |
-| ESB Sales | 2026-06-08 (9 days data) | 🟢 Growing |
+| ESB Sales | 2026-06-09 (10 days data) | 🟢 Growing |
 
 ## Lint Recommendations
 

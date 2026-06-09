@@ -1,6 +1,6 @@
 # B7P Brand Intelligence Wiki — Master Index
 
-*Auto-compiled by LLM from `raw/` data. Last updated: 2026-06-09.*
+*Auto-compiled by LLM from `raw/` data. Last updated: 2026-06-10.*
 
 ## Wiki Structure
 
@@ -22,6 +22,7 @@
 - [[b7p/raw/reviews/lemon8_review]] — Detailed food blogger review
 - [[b7p/raw/social/social_mentions]] — Instagram, TikTok, YouTube mentions
 - [[b7p/raw/research/brand_profile]] — Compiled brand facts
+- [[b7p/raw/sales/2026-06-09]] — Daily sales (Rp 28.4M gross, Rp 26.1M net, Tuesday)
 - [[b7p/raw/sales/2026-06-08]] — Daily sales (Rp 29.2M gross, Rp 26.7M net, Monday)
 - [[b7p/raw/sales/2026-06-07]] — Daily sales (Rp 77.6M gross, Rp 70.7M net, Sunday)
 - [[b7p/raw/sales/2026-06-06]] — Daily sales (Rp 51.8M gross, Rp 47.3M net, Saturday)
@@ -38,10 +39,10 @@
 - **Signature item:** Tetelan goreng (disebut di 80%+ konten)
 - **Price range:** Rp 16K – Rp 39K
 - **Halal:** MUI Certified
-| **Daily sales (latest):** Rp 29.2M (Mon Jun 8) / Rp 77.6M (Sun Jun 7) / Rp 51.8M (Sat Jun 6) / Rp 27.6M (Fri Jun 5) / Rp 20.3M (Thu Jun 4)
+| **Daily sales (latest):** Rp 28.4M (Tue Jun 9) / Rp 29.2M (Mon Jun 8) / Rp 77.6M (Sun Jun 7) / Rp 51.8M (Sat Jun 6) / Rp 27.6M (Fri Jun 5)
 
 ## Wiki Health
 - **Articles:** 6
 - **Backlinks:** cross-referenced antar artikel
 - **Data freshness:** June 2026
-- **Coverage gaps:** Belum ada review teks lengkap, belum ada AGP data, ESB sales 9 hari — pola weekday/weekend terkonfirmasi ✅, Monday normalized (Jun 8: Rp 29.2M vs outlier Jun 1: Rp 68.8M)
+- **Coverage gaps:** Belum ada review teks lengkap, belum ada AGP data, ESB sales 10 hari — pola weekday/weekend terkonfirmasi ✅, Monday normalized (Jun 8: Rp 29.2M vs outlier Jun 1: Rp 68.8M), Tuesday baseline Rp 20-28M stabil
