@@ -1,21 +1,26 @@
 # B7P Google Reviews - Raw Data Dump
 
 **Source:** Google Maps Places API via review monitor
-**Total reviews tracked:** 47 (46 unique; 1 duplicate: Grace Sancaya)
+**Total reviews tracked:** 52 (51 unique; 1 duplicate: Grace Sancaya)
 **Date range:** Nov 2025 - Jun 2026
-**Current rating:** 4.7★ (3,135 reviews total, per Google Maps)
+**Current rating:** 4.7★ (3,135+ reviews total, per Google Maps)
 
 ## Rating Distribution (from tracked sample)
-- ⭐⭐⭐⭐⭐ (5): 38 reviews (81%)
-- ⭐⭐⭐⭐ (4): 7 reviews (15%)
+- ⭐⭐⭐⭐⭐ (5): 42 reviews (81%)
+- ⭐⭐⭐⭐ (4): 7 reviews (13%)
 - ⭐⭐⭐ (3): 2 reviews (4%)
-- ⭐⭐ (2): 0
+- ⭐⭐ (2): 1 review (2%)
 - ⭐ (1): 0
 
 ## All Tracked Reviews
 
 | Date | Reviewer | Rating |
 |------|----------|--------|
+| 2026-06-12 | Unknown (new) | ⭐⭐⭐⭐⭐ |
+| 2026-06-12 | Unknown (new) | ⭐⭐⭐⭐⭐ |
+| 2026-06-12 | Unknown (new) | ⭐⭐⭐⭐⭐ |
+| 2026-06-12 | Unknown (new) | ⭐⭐⭐⭐⭐ |
+| 2026-06-12 | Unknown (new) | ⭐⭐ |
 | 2026-06-07 | Mommy Lie (Kiyomi) | ⭐⭐⭐⭐ |
 | 2026-06-07 | Christian Niko Saputra | ⭐⭐⭐⭐⭐ |
 | 2026-06-07 | storagefrom cia | ⭐⭐⭐⭐⭐ |
@@ -67,7 +72,8 @@
 ## Notes
 - Only ratings tracked (review text not available via current Places API scrape)
 - 3-star reviews from M.Y. Ridha and Meigummy — text unknown
-- 47/3,135 = 1.5% of total reviews tracked
-- No 1 or 2 star reviews in tracked sample
+- 52/3,135 = 1.7% of total reviews tracked
+- ⚠️ **FIRST 2★ REVIEW** — reviewer name and text unknown. Ini sinyal penting untuk segera investigasi. Rating distribution health check: 5★ 80.8% (42/52), 4★ 13.5% (7/52), 3★ 3.8% (2/52), 2★ 1.9% (1/52).
 - ⚠️ Grace Sancaya appears twice (Jun 1) — possible duplicate review
-- 🆕 +7 reviews since last raw dump: Wahyu Irawan, Ayu Maharani, Ridwan Arieftriansyah, Al Amin, storagefrom cia, Christian Niko Saputra, Mommy Lie (Jun 6-7)
+- ⚠️ **Monitoring gap:** 5 review baru (Jun 12 batch) tidak punya nama/timestamp — state file hanya menyimpan rating. Pipeline perlu fix untuk capture nama dan teks.
+- 🆕 +5 reviews since last compile: 4× 5★ + 1× 2★ (all unnamed, all detected via state file diff)
