@@ -34,14 +34,14 @@
 ### Review Velocity
 
 Dari tracked sample (Nov 2025 - Jun 2026):
-- **65 reviews total** terlacak — naik dari 52 (+13 reviews: 11× 5★ + 1× 4★ + 1× 5★ duplikat, Jun 13 batch)
-- 54× 5★ (83%), 8× 4★ (12%), 2× 3★ (3%), 1× 2★ (2%)
+- **67 reviews total** terlacak — naik dari 65 (+2 reviews: 2× 5★ dari Jun 14)
+- 56× 5★ (84%), 8× 4★ (12%), 2× 3★ (3%), 1× 2★ (1%)
 - Velocity: ~4-13/hari, dengan spike Jun 13 (13 review dalam 1 hari — kemungkinan batch submission atau event-driven)
 - Pattern: reviews masuk sepanjang hari, cluster di jam makan siang dan malam
-- ⚠️ **First 2★ review detected** — Andi Mohamadyusuf (Jun 12). Distribusi 5★ naik ke 83% (54/65), 4★ normalisasi ke 12% (8/65). Review baru batch Jun 13: 11× 5★ + 1× 4★. Mayoritas 5★ dengan nama reviewer tersedia.
+- ⚠️ **First 2★ review detected** — Andi Mohamadyusuf (Jun 12). Distribusi 5★ naik ke 84% (56/67), 4★ normalisasi ke 12% (8/67). +2 review baru Jun 14: Putri Devi Permatasari (5★) + Mela Astifa (5★).
 - 🟢 **Monitoring gap partially resolved:** 12 dari 13 review baru (Jun 13 batch) punya nama reviewer. Hanya 1 yang tanpa nama. Pipeline improvement terlihat efektif.
-- Sales context 14 hari (Jun 1 – Jun 13): Rp 68.8M (Mon/outlier) → Rp 20.8M (Tue) → Rp 24.7M (Wed) → Rp 20.3M (Thu) → Rp 27.6M (Fri) → Rp 51.8M (Sat) → Rp 77.6M (Sun) → Rp 29.2M (Mon/normal) → Rp 28.4M (Tue) → Rp 34.9M (Wed) → Rp 28.0M (Thu) → Rp 28.8M (Fri) → Rp 65.5M (Sat)
-- 🆕 Saturday: Rp 51.8M (Jun 6) → Rp 65.5M (Jun 13, +26% WoW, 2 data point). Weekend (Sat-Sun) ~Rp 52-78M, ratio ~3-4x dari weekday.
+- Sales context 15 hari (Jun 1 – Jun 14): Rp 68.8M (Mon/outlier) → Rp 20.8M (Tue) → Rp 24.7M (Wed) → Rp 20.3M (Thu) → Rp 27.6M (Fri) → Rp 51.8M (Sat) → Rp 77.6M (Sun) → Rp 29.2M (Mon/normal) → Rp 28.4M (Tue) → Rp 34.9M (Wed) → Rp 28.0M (Thu) → Rp 28.8M (Fri) → Rp 65.5M (Sat) → Rp 71.2M (Sun)
+- 🆕 Sunday: Rp 75.3M → Rp 77.6M → Rp 71.2M (3 data point, avg ~Rp 74.7M). Weekend (Sat-Sun) ratio ~3-4x dari weekday.
 
 ### Customer Quote Board
 
@@ -64,4 +64,4 @@ Dari tracked sample (Nov 2025 - Jun 2026):
 | Demographics detail | Segmentasi terlalu kasar | Survey atau tiket data |
 | Repeat rate | Gak tau loyalitas | Butuh data ESB atau loyalty program |
 | AGP (Ayam Goreng Pandawa) | Belum ada data | Setup monitoring serupa |
-| | Sales weekday baseline | 14 hari data. Weekday ~Rp 20-35M, Saturday ~Rp 52-66M (2 data point), Sunday ~Rp 75-78M. Ratio weekend:weekday ~3-4:1 ✅. |
+| | Sales weekday baseline | 15 hari data. Weekday ~Rp 20-35M, Saturday ~Rp 52-66M (2 data point), Sunday ~Rp 71-78M (3 data point, avg Rp 74.7M). Ratio weekend:weekday ~3-4:1 ✅. |
