@@ -29,19 +29,22 @@
 
 ### What They Complain About
 
-**⚠️ First concern detected.** Review teks dari 2★ dan 3★ tidak tersedia via current monitoring. June 2026 menandai review 2★ pertama dalam tracked sample. Ini gap kritis — kita gak tau apa yang bikin pelanggan kasih 2★.
+**⚠️ First concern detected.** Review teks dari 2★ dan 3★ tidak tersedia via current monitoring. June 2026 menandai review 2★ pertama dalam tracked sample + review 3★ ketiga (Tya Tami, Jun 15). Ini gap kritis — 5★ turun dari 84% ke 82%, 3★ naik ke 4%. Kita gak tau apa yang bikin pelanggan kasih 2-3★.
 
 ### Review Velocity
 
 Dari tracked sample (Nov 2025 - Jun 2026):
-- **67 reviews total** terlacak — naik dari 65 (+2 reviews: 2× 5★ dari Jun 14)
-- 56× 5★ (84%), 8× 4★ (12%), 2× 3★ (3%), 1× 2★ (1%)
+- **71 reviews total** terlacak — naik dari 67 (+4 reviews: Tya Tami 3★, Mutiara S 5★×2, Farihani Adnan 4★ dari Jun 15)
+- 58× 5★ (82%), 9× 4★ (13%), 3× 3★ (4%), 1× 2★ (1%)
 - Velocity: ~4-13/hari, dengan spike Jun 13 (13 review dalam 1 hari — kemungkinan batch submission atau event-driven)
 - Pattern: reviews masuk sepanjang hari, cluster di jam makan siang dan malam
-- ⚠️ **First 2★ review detected** — Andi Mohamadyusuf (Jun 12). Distribusi 5★ naik ke 84% (56/67), 4★ normalisasi ke 12% (8/67). +2 review baru Jun 14: Putri Devi Permatasari (5★) + Mela Astifa (5★).
-- 🟢 **Monitoring gap partially resolved:** 12 dari 13 review baru (Jun 13 batch) punya nama reviewer. Hanya 1 yang tanpa nama. Pipeline improvement terlihat efektif.
-- Sales context 15 hari (Jun 1 – Jun 14): Rp 68.8M (Mon/outlier) → Rp 20.8M (Tue) → Rp 24.7M (Wed) → Rp 20.3M (Thu) → Rp 27.6M (Fri) → Rp 51.8M (Sat) → Rp 77.6M (Sun) → Rp 29.2M (Mon/normal) → Rp 28.4M (Tue) → Rp 34.9M (Wed) → Rp 28.0M (Thu) → Rp 28.8M (Fri) → Rp 65.5M (Sat) → Rp 71.2M (Sun)
-- 🆕 Sunday: Rp 75.3M → Rp 77.6M → Rp 71.2M (3 data point, avg ~Rp 74.7M). Weekend (Sat-Sun) ratio ~3-4x dari weekday.
+- ⚠️ **5★ turun ke 82%** (58/71) dari 84% — pertama kali distribusi 5★ turun. Dipicu Tya Tami 3★ (Jun 15).
+- ⚠️ **3★ meningkat:** 2 → 3 review (3% → 4%). Semua tanpa teks. Severity escalated.
+- ⚠️ **First 2★ review detected** — Andi Mohamadyusuf (Jun 12). Tanpa teks.
+- ⚠️ **Duplikat baru:** Mutiara S (Jun 15, 2×). Total duplikat: Grace Sancaya, Patika Anggraini, Mutiara S.
+- 🟢 **Monitoring gap partially resolved:** 12 dari 13 review baru (Jun 13 batch) punya nama reviewer. Pipeline improvement terlihat efektif.
+- Sales context 16 hari (Jun 1 – Jun 15): Rp 68.8M (Mon/outlier) → Rp 20.8M (Tue) → Rp 24.7M (Wed) → Rp 20.3M (Thu) → Rp 27.6M (Fri) → Rp 51.8M (Sat) → Rp 77.6M (Sun) → Rp 29.2M (Mon/normal) → Rp 28.4M (Tue) → Rp 34.9M (Wed) → Rp 28.0M (Thu) → Rp 28.8M (Fri) → Rp 65.5M (Sat) → Rp 71.2M (Sun) → Rp 37.9M (Mon)
+- 🆕 Monday: 3 data point — Rp 68.8M → Rp 29.2M → Rp 37.9M (avg ~Rp 45.3M, masih volatile). Sunday: Rp 75.3M → Rp 77.6M → Rp 71.2M (3 data point, avg ~Rp 74.7M). Weekend (Sat-Sun) ratio ~3-4x dari weekday.
 
 ### Customer Quote Board
 
@@ -64,4 +67,4 @@ Dari tracked sample (Nov 2025 - Jun 2026):
 | Demographics detail | Segmentasi terlalu kasar | Survey atau tiket data |
 | Repeat rate | Gak tau loyalitas | Butuh data ESB atau loyalty program |
 | AGP (Ayam Goreng Pandawa) | Belum ada data | Setup monitoring serupa |
-| | Sales weekday baseline | 15 hari data. Weekday ~Rp 20-35M, Saturday ~Rp 52-66M (2 data point), Sunday ~Rp 71-78M (3 data point, avg Rp 74.7M). Ratio weekend:weekday ~3-4:1 ✅. |
+| | Sales weekday baseline | 16 hari data. Weekday ~Rp 20-35M, Monday volatile (3 data point: Rp 29-69M), Saturday ~Rp 52-66M (2 data point), Sunday ~Rp 71-78M (3 data point, avg Rp 74.7M). Ratio weekend:weekday ~3-4:1 ✅. |
