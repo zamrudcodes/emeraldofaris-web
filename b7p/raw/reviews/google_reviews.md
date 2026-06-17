@@ -1,15 +1,15 @@
 # B7P Google Reviews - Raw Data Dump
 
 **Source:** Google Maps Places API via review monitor (7pr_review_state.json)
-**Total reviews tracked:** 80 (74 unique; 6 duplicates)
+**Total reviews tracked:** 89 (83 unique; 6 duplicates)
 **Date range:** Nov 2025 - Jun 2026
 **Current rating:** 4.7★ (3,135+ reviews total, per Google Maps)
 
 ## Rating Distribution (from tracked sample)
-- ⭐⭐⭐⭐⭐ (5): 66 reviews (82.5%)
-- ⭐⭐⭐⭐ (4): 9 reviews (11.2%)
-- ⭐⭐⭐ (3): 4 reviews (5.0%)
-- ⭐⭐ (2): 1 review (1.2%)
+- ⭐⭐⭐⭐⭐ (5): 75 reviews (84.3%)
+- ⭐⭐⭐⭐ (4): 9 reviews (10.1%)
+- ⭐⭐⭐ (3): 4 reviews (4.5%)
+- ⭐⭐ (2): 1 review (1.1%)
 - ⭐ (1): 0
 
 ## All Tracked Reviews
@@ -96,14 +96,23 @@
 | 2026-06-16 | Al Boss | ⭐⭐⭐ |
 | 2026-06-16 | davan Yudi | ⭐⭐⭐⭐⭐ |
 | 2026-06-16 | Yohan Bibie | ⭐⭐⭐⭐⭐ |
+| 2026-06-16 | Nenden Nila | ⭐⭐⭐⭐⭐ |
+| 2026-06-17 | Pradnyasita Ramadhanty | ⭐⭐⭐⭐⭐ |
+| 2026-06-17 | Rahmi Dwi Julianty | ⭐⭐⭐⭐⭐ |
+| 2026-06-17 | yusuf alhamdan | ⭐⭐⭐⭐⭐ |
+| 2026-06-17 | Bapak Subandi | ⭐⭐⭐⭐⭐ |
+| 2026-06-17 | Beby Chandra | ⭐⭐⭐⭐⭐ |
+| 2026-06-17 | Stw Me | ⭐⭐⭐⭐⭐ |
+| 2026-06-17 | Triasya Triasya | ⭐⭐⭐⭐⭐ |
+| 2026-06-17 | rasi bca | ⭐⭐⭐⭐⭐ |
 
 ## Notes
 - Only ratings tracked (review text not available via current Places API scrape)
 - 3-star reviews from Meigummy, M.Y. Ridha, Tya Tami, and Al Boss — text unknown
 - 2-star review from Andi Mohamadyusuf (Jun 12) — text unknown, first ever tracked
-- 80/3,135 = 2.6% of total reviews tracked
+- 89/3,135 = 2.8% of total reviews tracked
 - **Duplicates (6):** Grace Sancaya (Jun 1, 2×), Patika Anggraini (Jun 13, 2×), Putri Devi Permatasari (Jun 14, 2×), Mela Astifa (Jun 14, 2×), Mutiara S (Jun 15, 2×), Rayhaan Imtiyaz (Jun 16, 2×)
 - 🟢 **Pipeline improvement confirmed:** Jun 12-16 batch — semua review punya nama reviewer. Monitoring gap resolved.
-- ⚠️ **Al Boss 3★ (Jun 16):** Review 3★ ke-4. 3★ sekarang 5.0% (4/80). Tanpa teks — gak bisa root cause analysis.
+- ⚠️ **9 review baru:** 8 dari Jun 17 + 1 dari Jun 16 (Nenden Nila). Semua 5★. Sample sekarang 89 review dengan 5★ 84.3%.
 - ⚠️ Review teks tidak tersedia untuk SEMUA rating — gak bisa analisis konten review.
-- ⚠️ **3★ tren naik:** 2→3→4 review (Meigummy Jan, M.Y. Ridha May, Tya Tami Jun 15, Al Boss Jun 16). 3★ distribution: 3.8%→4%→5.0% seiring sample bertambah.
+- ⚠️ **3★ tren stabil di 4 (4.5%):** Tidak ada review 3★ baru — pertama kali dalam 3 compile berturut-turut 3★ gak bertambah. Tapi 2★ masih 1.

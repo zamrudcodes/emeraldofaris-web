@@ -29,23 +29,24 @@
 
 ### What They Complain About
 
-**⚠️ First concern detected.** Review teks dari 2★ dan 3★ tidak tersedia via current monitoring. June 2026 menandai review 2★ pertama (Andi Mohamadyusuf, Jun 12) + 2 review 3★ baru (Tya Tami Jun 15, Al Boss Jun 16). Total 4 review 3★ sekarang (5.0% dari 80). Tren 3★ meningkat dalam 30 hari terakhir: 2 dari 4 review 3★ tracked muncul dalam 2 hari terakhir. Kita gak tau apa yang bikin pelanggan kasih 2-3★.
+**⚠️ First concern detected.** Review teks dari 2★ dan 3★ tidak tersedia via current monitoring. June 2026 menandai review 2★ pertama (Andi Mohamadyusuf, Jun 12) + 4 review 3★ (Meigummy, M.Y. Ridha, Tya Tami, Al Boss). Total 4 review 3★ sekarang (4.5% dari 89). Tidak ada 3★ baru di Jun 17 — pertama kali 3★ gak bertambah dalam 3 compile. Melambat, tapi 2★ masih 1. Kita gak tau apa yang bikin pelanggan kasih 2-3★.
 
 ### Review Velocity
 
 Dari tracked sample (Nov 2025 - Jun 2026):
-- **80 reviews total** terlacak — naik dari 71 (+9 reviews: 7 dari Jun 16 + 1 dari Jun 14-15 yang belum di-compile)
-- 66× 5★ (82.5%), 9× 4★ (11.2%), 4× 3★ (5.0%), 1× 2★ (1.2%)
-- Velocity: ~4-13/hari, dengan spike Jun 13 (13 review dalam 1 hari — batch submission atau event-driven)
-- Pattern: reviews masuk sepanjang hari, cluster di jam makan siang dan malam
-- ⚠️ **5★ di 82.5%** (66/80) — naik tipis dari 82% karena 6/7 review Jun 16 adalah 5★
-- ⚠️ **3★ meningkat:** 2 → 3 → 4 review (3.8% → 4% → 5.0%). 50% dari 3★ masuk dalam 30 hari terakhir — tren mengkhawatirkan.
-- ⚠️ **First 2★ review detected** — Andi Mohamadyusuf (Jun 12). Tanpa teks.
-- ⚠️ **Duplikat bertambah:** Grace Sancaya (2×), Patika Anggraini (2×), Putri Devi Permatasari (2×), Mela Astifa (2×), Mutiara S (2×), Rayhaan Imtiyaz (2×) — 6 kasus total, +3 baru dari Jun 14-16.
-- 🟢 **Pipeline improvement confirmed:** Semua 28 review Jun 12-16 batch punya nama reviewer.
-- 🔴 **ANOMALI SALES:** Jun 16 (Selasa) Rp 79.85M — 3.8× baseline Selasa. Total bills 411 (AOV Rp 194K). Ini di atas Sunday average (Rp 74.7M). Investigasi diperlukan.
-- Sales context 17 hari (Jun 1 – Jun 16): Rp 68.8M (Mon/outlier) → Rp 20.8M (Tue) → Rp 24.7M (Wed) → Rp 20.3M (Thu) → Rp 27.6M (Fri) → Rp 51.8M (Sat) → Rp 77.6M (Sun) → Rp 29.2M (Mon) → Rp 28.4M (Tue) → Rp 34.9M (Wed) → Rp 28.0M (Thu) → Rp 28.8M (Fri) → Rp 65.5M (Sat) → Rp 71.2M (Sun) → Rp 37.9M (Mon) → **Rp 79.9M (Tue ⚠️ OUTLIER)**
-- 🆕 Tuesday: 3 data point — Rp 20.8M → Rp 28.4M → **Rp 79.9M (anomali)**. Exclude outlier: weekday Tue ~Rp 24.6M.
+- **89 reviews total** terlacak — naik dari 80 (+9 reviews: Nenden Nila 5★ Jun 16 + 8× 5★ Jun 17)
+- 75× 5★ (84.3%), 9× 4★ (10.1%), 4× 3★ (4.5%), 1× 2★ (1.1%)
+- Velocity: ~4-13/hari, dengan spike Jun 13 (13 review dalam 1 hari)
+- Pattern: reviews masuk sepanjang hari
+- 🟢 **5★ naik ke 84.3%** (75/89) — +1.8pp dari 82.5%. Semua 9 review baru adalah 5★.
+- 🟢 **3★ stabil di 4 review (4.5%):** Tidak bertambah sejak Jun 16 — pertama kali dalam 3 compile.
+- ⚠️ **First 2★ review detected** — Andi Mohamadyusuf (Jun 12). Masih 1 saja.
+- ⚠️ **Duplikat:** Grace Sancaya (2×), Patika Anggraini (2×), Putri Devi Permatasari (2×), Mela Astifa (2×), Mutiara S (2×), Rayhaan Imtiyaz (2×) — 6 kasus total, tidak bertambah.
+- 🟢 **Pipeline improvement confirmed:** Semua review tracked punya nama reviewer.
+- 🔴 **ANOMALI SALES:** Jun 16 (Selasa) Rp 79.85M — 3.8× baseline Selasa. Total bills 411 (AOV Rp 194K). ⏳ Butuh data Jun 23 untuk konfirmasi.
+- Sales context 18 hari (Jun 1 – Jun 17): Rp 68.8M (Mon/outlier) → Rp 20.8M (Tue) → Rp 24.7M (Wed) → Rp 20.3M (Thu) → Rp 27.6M (Fri) → Rp 51.8M (Sat) → Rp 77.6M (Sun) → Rp 29.2M (Mon) → Rp 28.4M (Tue) → Rp 34.9M (Wed) → Rp 28.0M (Thu) → Rp 28.8M (Fri) → Rp 65.5M (Sat) → Rp 71.2M (Sun) → Rp 37.9M (Mon) → **Rp 79.9M (Tue ⚠️ OUTLIER)** → **Rp 22.6M (Wed)**
+- 🆕 Wednesday dengan 3 data point: Rp 24.7M → Rp 34.9M → Rp 22.6M (avg normal ~Rp 27.4M, Jun 17 0.82× normal — healthy).
+- Tuesday: 3 data point — Rp 20.8M → Rp 28.4M → **Rp 79.9M (anomali)**. Exclude outlier: weekday Tue ~Rp 24.6M.
 - Sunday: Rp 75.3M → Rp 77.6M → Rp 71.2M (3 data point, avg Rp 74.7M). Weekend (Sat-Sun) ratio ~3-4x dari weekday normal.
 
 ### Customer Quote Board
@@ -65,11 +66,11 @@ Dari tracked sample (Nov 2025 - Jun 2026):
 | Gap | Impact | Action |
 |-----|--------|--------|
 | Teks review 2-3★ gak ada | 🔴 Gak tau pain points — 4 review 3★ + 1 review 2★ tanpa teks | Upgrade scraper segera |
-| Review monitoring names | 🟢 Resolved | Semua 28 review Jun 12-16 batch punya nama |
+| Review monitoring names | 🟢 Resolved | Semua review tracked punya nama |
 | Demographics detail | Segmentasi terlalu kasar | Survey atau tiket data |
 | Repeat rate | Gak tau loyalitas | Butuh data ESB atau loyalty program |
 | AGP (Ayam Goreng Pandawa) | Belum ada data | Setup monitoring serupa |
-| 🔴 Sales anomali Jun 16 | Rp 79.9M Selasa — gak wajar | Investigasi: libur nasional? event? billing error? |
-| 3★ creep (2 baru dalam 2 hari) | Tren meningkat — 5.0% sekarang | Monitor ketat. Kalau lanjut, severity naik. |
-| 6x duplikat reviews | Data inflasi ringan | Dedup di pipeline atau state file |
-| | Sales weekday baseline | 17 hari data. Weekday ~Rp 20-35M, ⚠️ Jun 16 outlier besar. Monday 3 data point (range Rp 29-69M). Saturday ~Rp 52-66M. Sunday ~Rp 71-78M. | 
+| 🔴 Sales anomali Jun 16 | Rp 79.9M Selasa — gak wajar | ⏳ Butuh data Jun 23 untuk konfirmasi |
+| 3★ creep (melambat) | 4 review (4.5%) — 0 baru di Jun 17 | 🟢 Melambat tapi monitor terus |
+| 6× duplikat reviews | Data inflasi ringan — tidak bertambah | Dedup di pipeline atau state file (low priority) |
+| Sales weekday baseline | 18 hari data. Wednesday: 3 data point (avg Rp 27.4M). Weekday ~Rp 20-35M, ⚠️ Jun 16 outlier besar. Monday 3 data point (range Rp 29-69M). Saturday ~Rp 52-66M. Sunday ~Rp 71-78M. | 

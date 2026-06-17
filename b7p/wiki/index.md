@@ -1,6 +1,6 @@
 # B7P Brand Intelligence Wiki — Master Index
 
-*Auto-compiled by LLM from `raw/` data. Last updated: 2026-06-17.*
+*Auto-compiled by LLM from `raw/` data. Last updated: 2026-06-18.*
 
 ## Wiki Structure
 
@@ -18,11 +18,12 @@
 - [[operations/menu-analysis]] — Breakdown menu: core vs new, price ladder
 
 ## Raw Data Index
-- [[b7p/raw/reviews/google_reviews]] — 80 review rating (Google Maps, tracked sample)
+- [[b7p/raw/reviews/google_reviews]] — 89 review rating (Google Maps, tracked sample)
 - [[b7p/raw/reviews/lemon8_review]] — Detailed food blogger review
 - [[b7p/raw/social/social_mentions]] — Instagram, TikTok, YouTube mentions
 - [[b7p/raw/research/brand_profile]] — Compiled brand facts
-- [[b7p/raw/sales/2026-06-16]] — Daily sales (Rp 79.9M gross, Rp 72.8M net, Selasa ⚠️ ANOMALI)
+- [[b7p/raw/sales/2026-06-17]] — Daily sales (Rp 22.6M gross, Rp 20.6M net, Wednesday)
+- [[b7p/raw/sales/2026-06-16]] — Daily sales (Rp 79.9M gross, Rp 72.8M net, Tuesday ⚠️ ANOMALI)
 - [[b7p/raw/sales/2026-06-15]] — Daily sales (Rp 37.9M gross, Rp 34.5M net, Monday)
 - [[b7p/raw/sales/2026-06-14]] — Daily sales (Rp 71.2M gross, Rp 64.9M net, Sunday)
 - [[b7p/raw/sales/2026-06-13]] — Daily sales (Rp 65.5M gross, Rp 59.8M net, Saturday)
@@ -42,14 +43,14 @@
 
 ## Quick Stats
 - **Rating:** 4.7★ (3,135+ reviews)
-- **Review sentiment:** 82.5% 5★ (66), 11.2% 4★ (9), 5.0% 3★ (4), 1.2% 2★ (1) — tracked sample of 80
+- **Review sentiment:** 84.3% 5★ (75), 10.1% 4★ (9), 4.5% 3★ (4), 1.1% 2★ (1) — tracked sample of 89
 - **Signature item:** Tetelan goreng (disebut di 80%+ konten)
 - **Price range:** Rp 16K – Rp 39K
 - **Halal:** MUI Certified
-- **Daily sales (latest):** Rp 79.9M (Tue Jun 16 ⚠️ ANOMALI) / Rp 37.9M (Mon Jun 15) / Rp 71.2M (Sun Jun 14) / Rp 65.5M (Sat Jun 13) / Rp 28.8M (Fri Jun 12)
+- **Daily sales (latest):** Rp 22.6M (Wed Jun 17) / Rp 79.9M (Tue Jun 16 ⚠️ ANOMALI) / Rp 37.9M (Mon Jun 15) / Rp 71.2M (Sun Jun 14) / Rp 65.5M (Sat Jun 13)
 
 ## Wiki Health
 - **Articles:** 6
 - **Backlinks:** cross-referenced antar artikel
 - **Data freshness:** June 2026
-- **Coverage gaps:** Review teks tidak tersedia untuk semua rating — gak bisa analisis konten review. 3★ meningkat 3.8%→5.0% seiring sample bertambah — ⚠️ Al Boss 3★ (Jun 16) adalah review 3★ ke-4. Monitoring nama reviewer resolved untuk Jun 12-16 batch. AGP data belum ada. ESB sales 17 hari — pola weekday/weekend terkonfirmasi ✅. 🔴 **ANOMALI SALES:** Rp 79.9M Selasa Jun 16 — 3.8× baseline Selasa. Monday: 3 data point — Rp 29.2M → Rp 37.9M (range Rp 29-69M). Tuesday: 3 data point — Rp 20.8M → Rp 28.4M → Rp 79.9M (⚠️ outlier). Wednesday: Rp 24.7M–34.9M (2 data point). Thursday: Rp 20.3M–28.0M (2 data point). Friday: Rp 27.6M–28.8M (2 data point konsisten). Saturday: Rp 51.8M → Rp 65.5M (+26% WoW). Sunday: Rp 75.3M → Rp 77.6M → Rp 71.2M (avg ~Rp 74.7M). Weekend:weekday ratio ~3–4:1. ⚠️ 3★ creep: 2 dari 4 review 3★ masuk dalam 30 hari terakhir (Tya Tami Jun 15, Al Boss Jun 16). ⚠️ 6 duplikat: Grace Sancaya, Patika Anggraini, Putri Devi Permatasari, Mela Astifa, Mutiara S, Rayhaan Imtiyaz (+3 baru dari Jun 14-16).
+- **Coverage gaps:** Review teks tidak tersedia untuk semua rating — gak bisa analisis konten review. 3★ stabil di 4 review (4.5%) — pertama kali gak bertambah dalam 3 compile. 🟢 Monitoring nama reviewer confirmed working. AGP data belum ada. ESB sales 18 hari (May 31 – Jun 17). Pola weekday: Wed Rp 22.6M — 0.76× Wednesday baseline (Rp 29.8M), normal. 🔴 **ANOMALI SALES:** Rp 79.9M Selasa Jun 16 — masih unresolved, butuh Jun 23 untuk konfirmasi. Monday: 3 data point — Rp 29.2M → Rp 37.9M (range Rp 29-69M). Tuesday: 3 data point — Rp 20.8M → Rp 28.4M → Rp 79.9M (⚠️ outlier). Wednesday: 3 data point — Rp 24.7M → Rp 34.9M → Rp 22.6M. Thursday: Rp 20.3M–28.0M (2 data point). Friday: Rp 27.6M–28.8M (2 data point konsisten). Saturday: Rp 51.8M → Rp 65.5M (+26% WoW). Sunday: Rp 75.3M → Rp 77.6M → Rp 71.2M (avg ~Rp 74.7M). Weekend:weekday ratio ~3–4:1. ⚠️ 3★ creep: tetap di 4 review — tidak ada 3★ baru di Jun 17. ⚠️ 6 duplikat (tidak bertambah). +9 review baru hari ini — semua 5★ di Jun 17.
