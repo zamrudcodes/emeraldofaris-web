@@ -1,15 +1,15 @@
 # B7P Google Reviews - Raw Data Dump
 
 **Source:** Google Maps Places API via review monitor (7pr_review_state.json)
-**Total reviews tracked:** 89 (83 unique; 6 duplicates)
+**Total reviews tracked:** 113 (105 unique; 8 duplicates)
 **Date range:** Nov 2025 - Jun 2026
 **Current rating:** 4.7★ (3,135+ reviews total, per Google Maps)
 
 ## Rating Distribution (from tracked sample)
-- ⭐⭐⭐⭐⭐ (5): 75 reviews (84.3%)
-- ⭐⭐⭐⭐ (4): 9 reviews (10.1%)
-- ⭐⭐⭐ (3): 4 reviews (4.5%)
-- ⭐⭐ (2): 1 review (1.1%)
+- ⭐⭐⭐⭐⭐ (5): 98 reviews (86.7%)
+- ⭐⭐⭐⭐ (4): 10 reviews (8.8%)
+- ⭐⭐⭐ (3): 4 reviews (3.5%)
+- ⭐⭐ (2): 1 review (0.9%)
 - ⭐ (1): 0
 
 ## All Tracked Reviews
@@ -103,16 +103,43 @@
 | 2026-06-17 | Bapak Subandi | ⭐⭐⭐⭐⭐ |
 | 2026-06-17 | Beby Chandra | ⭐⭐⭐⭐⭐ |
 | 2026-06-17 | Stw Me | ⭐⭐⭐⭐⭐ |
-| 2026-06-17 | Triasya Triasya | ⭐⭐⭐⭐⭐ |
 | 2026-06-17 | rasi bca | ⭐⭐⭐⭐⭐ |
+| 2026-06-17 | Triasya Triasya | ⭐⭐⭐⭐⭐ |
+| 2026-06-18 | kay | ⭐⭐⭐⭐⭐ |
+| 2026-06-18 | Ultra Men | ⭐⭐⭐⭐⭐ |
+| 2026-06-19 | Rani Hafsaridewi | ⭐⭐⭐⭐ |
+| 2026-06-19 | sucinovilani | ⭐⭐⭐⭐⭐ |
+| 2026-06-20 | Luna Colombini Adam | ⭐⭐⭐⭐⭐ |
+| 2026-06-20 | Muhammad Richo | ⭐⭐⭐⭐⭐ |
+| 2026-06-20 | Dita Ramadhanti | ⭐⭐⭐⭐⭐ |
+| 2026-06-20 | Raisya Driya | ⭐⭐⭐⭐⭐ |
+| 2026-06-20 | euis fuji | ⭐⭐⭐⭐⭐ |
+| 2026-06-21 | Tsabitha Azzahra Dirgantara | ⭐⭐⭐⭐⭐ |
+| 2026-06-21 | Novia Sundusy | ⭐⭐⭐⭐⭐ |
+| 2026-06-21 | The hugMan | ⭐⭐⭐⭐⭐ |
+| 2026-06-21 | raihan dhika | ⭐⭐⭐⭐⭐ |
+| 2026-06-21 | chantika amelia | ⭐⭐⭐⭐⭐ |
+| 2026-06-21 | Amelia Laura | ⭐⭐⭐⭐⭐ |
+| 2026-06-21 | Euis Kurniasih | ⭐⭐⭐⭐⭐ |
+| 2026-06-21 | Euis Kurniasih | ⭐⭐⭐⭐⭐ |
+| 2026-06-21 | Andria Maulidia | ⭐⭐⭐⭐⭐ |
+| 2026-06-21 | Andria Maulidia | ⭐⭐⭐⭐⭐ |
+| 2026-06-21 | Intania Yasmin | ⭐⭐⭐⭐⭐ |
+| 2026-06-21 | 21.084_Raden Najwa Solehati | ⭐⭐⭐⭐⭐ |
+| 2026-06-21 | Tiara Rahmah | ⭐⭐⭐⭐⭐ |
+| 2026-06-21 | Blue Bluedog | ⭐⭐⭐⭐⭐ |
+| 2026-06-21 | Naufal Fallah | ⭐⭐⭐⭐⭐ |
 
 ## Notes
 - Only ratings tracked (review text not available via current Places API scrape)
 - 3-star reviews from Meigummy, M.Y. Ridha, Tya Tami, and Al Boss — text unknown
 - 2-star review from Andi Mohamadyusuf (Jun 12) — text unknown, first ever tracked
-- 89/3,135 = 2.8% of total reviews tracked
-- **Duplicates (6):** Grace Sancaya (Jun 1, 2×), Patika Anggraini (Jun 13, 2×), Putri Devi Permatasari (Jun 14, 2×), Mela Astifa (Jun 14, 2×), Mutiara S (Jun 15, 2×), Rayhaan Imtiyaz (Jun 16, 2×)
-- 🟢 **Pipeline improvement confirmed:** Jun 12-16 batch — semua review punya nama reviewer. Monitoring gap resolved.
-- ⚠️ **9 review baru:** 8 dari Jun 17 + 1 dari Jun 16 (Nenden Nila). Semua 5★. Sample sekarang 89 review dengan 5★ 84.3%.
+- 113/3,135 = 3.6% of total reviews tracked
+- **Duplicates (8):** Grace Sancaya (Jun 1, 2×), Patika Anggraini (Jun 13, 2×), Putri Devi Permatasari (Jun 14, 2×), Mela Astifa (Jun 14, 2×), Mutiara S (Jun 15, 2×), Rayhaan Imtiyaz (Jun 16, 2×), Euis Kurniasih (Jun 21, 2×), Andria Maulidia (Jun 21, 2×)
+- 🟢 **Pipeline improvement confirmed:** Semua 113 review punya nama reviewer. Monitoring gap resolved total.
+- 🟢 **5★ naik signifikan:** 84.6% → 86.7% (+2.1pp). 22 dari 24 review baru adalah 5★. Hanya 1 review 4★ baru (Rani Hafsaridewi, Jun 19).
+- 🟢 **3★ stabil di 4 review (3.5%):** Tidak ada review 3★ baru sejak Jun 16. 6 hari bersih berturut-turut.
+- 🟢 **No new 2★:** Tetap 1 review (Andi Mohamadyusuf).
+- ⚠️ **Jun 21 spike:** 15 review dalam 1 hari (termasuk 4 duplikat). Review velocity tertinggi sepanjang tracked history. Kemungkinan weekend crowd + word-of-mouth momentum.
 - ⚠️ Review teks tidak tersedia untuk SEMUA rating — gak bisa analisis konten review.
-- ⚠️ **3★ tren stabil di 4 (4.5%):** Tidak ada review 3★ baru — pertama kali dalam 3 compile berturut-turut 3★ gak bertambah. Tapi 2★ masih 1.
+- ⚠️ **2 duplikat baru (Jun 21):** Euis Kurniasih, Andria Maulidia — total 8 kasus.
