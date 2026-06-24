@@ -1,23 +1,24 @@
 # B7P Wiki Health Check Report
 
-*Auto-generated: 2026-06-24*
+*Auto-generated: 2026-06-25*
 
 ## Wiki Stats
 - **Articles:** 6
 - **Total backlinks:** 30+ cross-references antar artikel
-- **Raw data sources:** 24 files in `raw/` (22 sales + 2 non-sales)
-- **Review sample:** 112 reviews tracked (±0 dari compile Jun 23 setelah dedup correction). 5★ 86.6% (97), 4★ 8.9% (10), 3★ 3.6% (4), 2★ 0.9% (1). 🟢 3★ stabil di 4 (3.6%) — 9 hari bersih. 🟢 Semua 112 review tracked punya nama. 🆕 Jun 23: +5 review 5★ (Apni Nomansa, Dito Naufal Orlando, Dwi Hastuti, rais kaysan, Andi Yudha Pratama). ⚠️ Dedup correction 115 → 112 (3 duplikat tambahan). ⚠️ Jun 19 (Fri) & Jun 20 (Sat) sales still missing. 🟡 Sunday Jun 21 Rp 61.9M — 17% di bawah avg.
-- **Sales data:** 23 hari (May 31 – Jun 23). 🔴 **ANOMALI:** Rp 79.9M Selasa Jun 16 — 3.8× baseline Selasa. ⚠️ 2 hari missing (Jun 19-20). 🟡 Sunday dip Jun 21. 🟢 Selasa Jun 23 Rp 23.8M — normal Tuesday, konfirmasi baseline weekday. 🆕 Tuesday: 4 data point (Rp 20.8M, 28.4M, 79.9M⚠️, 23.8M).
+- **Raw data sources:** 25 files in `raw/` (23 sales + 2 non-sales)
+- **Review sample:** 112 reviews tracked (tidak ada review baru sejak Jun 23). 5★ 86.6% (97), 4★ 8.9% (10), 3★ 3.6% (4), 2★ 0.9% (1). 🟢 3★ stabil di 4 (3.6%) — 10 hari bersih. 🟢 Semua 112 review tracked punya nama. ⚠️ Dedup correction 115 → 112 (3 duplikat tambahan). ⚠️ Jun 19 (Fri) & Jun 20 (Sat) sales still missing. 🟡 Sunday Jun 21 Rp 61.9M — 17% di bawah avg. 🆕 Jun 24: +1 sales day (Rabu Rp 20.7M).
+- **Sales data:** 24 hari (May 31 – Jun 24). 🔴 **ANOMALI:** Rp 79.9M Selasa Jun 16 — 3.8× baseline Selasa. ⚠️ 2 hari missing (Jun 19-20). 🟡 Sunday dip Jun 21. 🟢 Rabu Jun 24 Rp 20.7M — normal Wednesday, 140 bills, AOV Rp 148K. 🆕 Wednesday: 4 data point (Rp 24.7M, 34.9M, 22.6M, 20.7M; avg Rp 25.7M). Tuesday: 4 data point (Rp 20.8M, 28.4M, 79.9M⚠️, 23.8M).
 
 ## Issues Found
 
-### 🟢 Resolved (6)
+### 🟢 Resolved (7)
 1. **Monitoring gap — names:** ✅ Resolved. Semua 112 review tracked punya nama reviewer. Pipeline improvement confirmed.
 2. **Jun 12 batch unnamed:** ✅ Names resolved via state file sync.
-3. **3★ creep — RESOLVED:** 🟢 9 hari bersih sejak Al Boss (Jun 16). 3★ stabil di 3.6%. Tidak ada sinyal creep lanjutan.
+3. **3★ creep — RESOLVED:** 🟢 10 hari bersih sejak Al Boss (Jun 16). 3★ stabil di 3.6%. Tidak ada sinyal creep lanjutan.
 4. **Kamis baseline confirmed:** 🟢 Thursday: 3 data point — Rp 20.3M → Rp 28.0M → Rp 30.9M (avg Rp 26.4M), tren naik konsisten.
-5. **5★ momentum maintained:** 🟢 86.6% — +5 review Jun 23 semua 5★. After dedup correction, percentage stable.
+5. **5★ momentum maintained:** 🟢 86.6% — Tidak ada review baru Jun 24. After dedup correction, percentage stable.
 6. **Tuesday baseline strengthened:** 🆕 4 data point — Rp 20.8M → Rp 28.4M → Rp 79.9M (⚠️) → Rp 23.8M. Normal range Rp 21-28M (exclude outlier).
+7. **Wednesday baseline confirmed:** 🆕 4 data point — Rp 24.7M → Rp 34.9M → Rp 22.6M → Rp 20.7M (avg Rp 25.7M, range Rp 20.7-34.9M).
 
 ### ⚠️ Warnings (9)
 1. **🔴 ANOMALI SALES:** Rp 79.85M Selasa Jun 16 — 3.8× baseline Selasa (Rp 20.8M, Rp 28.4M). Total bills: 411, AOV Rp 194K. Masih unresolved.
@@ -38,15 +39,16 @@
 - ✅ Master index tersedia
 - ✅ Semua 112 review tracked punya nama — pipeline improvement confirmed
 - ✅ Review velocity: +5 baru Jun 23 (semua 5★)
-- ✅ 9 hari bersih tanpa 3★ atau 2★ baru
+- ✅ 10 hari bersih tanpa 3★ atau 2★ baru
 - ✅ Tuesday baseline 4 data point — range Rp 21-28M terkonfirmasi
+- ✅ Wednesday baseline 4 data point — range Rp 20.7-34.9M, avg Rp 25.7M
 
 ## Coverage Gaps (5)
 
 | Gap | Severity | Impact |
 |-----|----------|--------|
-| ESB sales data | 🟢 Good | 23 hari data (May 31 – Jun 23). ⚠️ Jun 19-20 missing. 🔴 Jun 16 Selasa Rp 79.9M outlier besar. 🟡 Sunday Jun 21 Rp 61.9M — dip. 🆕 Tuesday: 4 data point (normal Rp 21-28M, excl outlier). Thursday: 3 data point tren naik (avg Rp 26.4M). Monday: 4 data point (avg Rp 39.5M, normal Rp 22-38M). Sunday: 4 data point (avg Rp 71.5M). Wednesday: 3 data point. Friday & Saturday: 2 data point. Weekend:weekday ~3-4:1. |
-| Review text (2★ + 3★) | 🔴 Critical | 5 reviews (1× 2★ + 4× 3★) tanpa teks — gak tau root cause keluhan. 3★ tetap 3.6%. 9 hari bersih. |
+| ESB sales data | 🟢 Good | 24 hari data (May 31 – Jun 24). ⚠️ Jun 19-20 missing. 🔴 Jun 16 Selasa Rp 79.9M outlier besar. 🟡 Sunday Jun 21 Rp 61.9M — dip. 🆕 Wednesday: 4 data point (avg Rp 25.7M, range Rp 20.7-34.9M). Tuesday: 4 data point (normal Rp 21-28M, excl outlier). Thursday: 3 data point tren naik (avg Rp 26.4M). Monday: 4 data point (avg Rp 39.5M, normal Rp 22-38M). Sunday: 4 data point (avg Rp 71.5M). Friday & Saturday: 2 data point. Weekend:weekday ~3-4:1. |
+| Review text (2★ + 3★) | 🔴 Critical | 5 reviews (1× 2★ + 4× 3★) tanpa teks — gak tau root cause keluhan. 3★ tetap 3.6%. 10 hari bersih. |
 | AGP monitoring | 🔴 Critical | Brand baru, 0 data |
 | Competitor profiles | 🟡 High | Gak bisa analisis competitive positioning |
 | Financial data | 🟡 Medium | Gak bisa analisis unit economics |
@@ -58,7 +60,7 @@
 | Google Reviews | 2026-06-23 (112 tracked) | 🟢 Fresh |
 | Social mentions | ~2025-2026 | 🟡 Mixed |
 | Brand profile | 2026-05-31 (compiled) | 🟢 Fresh |
-| ESB Sales | 2026-06-23 (23 days, 2-day gap) | 🟡 Active but gapped |
+| ESB Sales | 2026-06-24 (24 days, 2-day gap) | 🟡 Active but gapped |
 
 ## Lint Recommendations
 
