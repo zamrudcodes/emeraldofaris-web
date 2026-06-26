@@ -1,6 +1,6 @@
 # B7P Brand Intelligence Wiki — Master Index
 
-*Auto-compiled by LLM from `raw/` data. Last updated: 2026-06-26.*
+*Auto-compiled by LLM from `raw/` data. Last updated: 2026-06-27.*
 
 ## Wiki Structure
 
@@ -22,6 +22,7 @@
 - [[b7p/raw/reviews/lemon8_review]] — Detailed food blogger review
 - [[b7p/raw/social/social_mentions]] — Instagram, TikTok, YouTube mentions
 - [[b7p/raw/research/brand_profile]] — Compiled brand facts
+- [[b7p/raw/sales/2026-06-26]] — Daily sales (Rp 27.1M gross, Rp 24.7M net, Friday)
 - [[b7p/raw/sales/2026-06-25]] — Daily sales (Rp 24.1M gross, Rp 22.0M net, Thursday)
 - [[b7p/raw/sales/2026-06-24]] — Daily sales (Rp 20.7M gross, Rp 18.9M net, Wednesday)
 - [[b7p/raw/sales/2026-06-23]] — Daily sales (Rp 23.8M gross, Rp 21.7M net, Tuesday)
@@ -49,14 +50,14 @@
 
 ## Quick Stats
 - **Rating:** 4.7★ (3,135+ reviews)
-- **Review sentiment:** 87.2% 5★ (102), 8.5% 4★ (10), 3.4% 3★ (4), 0.9% 2★ (1) — tracked sample of 117
+- **Review sentiment:** 87.4% 5★ (104), 8.4% 4★ (10), 3.4% 3★ (4), 0.8% 2★ (1) — tracked sample of 119
 - **Signature item:** Tetelan goreng (disebut di 80%+ konten)
 - **Price range:** Rp 16K – Rp 39K
 - **Halal:** MUI Certified
-- **Daily sales (latest):** Rp 24.1M (Thu Jun 25) / Rp 20.7M (Wed Jun 24) / Rp 23.8M (Tue Jun 23) / Rp 22.1M (Mon Jun 22) / Rp 61.9M (Sun Jun 21) / Rp 30.9M (Thu Jun 18) / Rp 22.6M (Wed Jun 17) / Rp 79.9M (Tue Jun 16 ⚠️ ANOMALI)
+- **Daily sales (latest):** Rp 27.1M (Fri Jun 26) / Rp 24.1M (Thu Jun 25) / Rp 20.7M (Wed Jun 24) / Rp 23.8M (Tue Jun 23) / Rp 22.1M (Mon Jun 22) / Rp 61.9M (Sun Jun 21) / Rp 30.9M (Thu Jun 18) / Rp 79.9M (Tue Jun 16 ⚠️ ANOMALI)
 
 ## Wiki Health
 - **Articles:** 6
 - **Backlinks:** cross-referenced antar artikel
-- **Data freshness:** June 2026
-- **Coverage gaps:** Review teks tidak tersedia untuk semua rating — gak bisa analisis konten review. 3★ stabil di 4 review (3.4%) — 11 hari bersih, gak bertambah sejak Jun 16. 🟢 Monitoring nama reviewer confirmed working. AGP data belum ada. ESB sales 25 hari (May 31 – Jun 25). ⚠️ Jun 19 (Fri) & Jun 20 (Sat) missing dari ESB ingest. 🔴 **ANOMALI SALES:** Rp 79.9M Selasa Jun 16 — masih unresolved. 🟡 **Sunday Jun 21 Rp 61.9M** — 17% di bawah Sunday avg (Rp 70M+). 🆕 **Rabu Jun 24 Rp 20.7M:** Normal Wednesday — 140 bills, AOV Rp 148K. Wednesday sekarang 4 data point: Rp 24.7M → Rp 34.9M → Rp 22.6M → Rp 20.7M (avg Rp 25.7M). Tuesday: 4 data point — Rp 20.8M → Rp 28.4M → Rp 79.9M (⚠️) → Rp 23.8M. Thursday: 4 data point — Rp 20.3M → Rp 28.0M → Rp 30.9M → Rp 24.1M (avg Rp 25.8M). Monday: 4 data point — Rp 68.8M → Rp 29.2M → Rp 37.9M → Rp 22.1M. Friday: 2 data point — Rp 27.6M–28.8M. Saturday: 2 data point — Rp 51.8M → Rp 65.5M. Sunday: 4 data point — Rp 75.3M → Rp 77.6M → Rp 71.2M → Rp 61.9M (avg Rp 71.5M). Weekend:weekday ratio ~3–4:1. 🟢 **5★ naik ke 87.2% (102/117).** +5 review 5★ Jun 25 (Dhea Syafitri x2, Ferdi Pratama, rama Joyce, Racka Alfariss). Total tracked: 117. 🟢 **Wednesday baseline confirmed:** 4 data point — range Rp 20.7-34.9M.
+- **Data freshness:** June 2026 (updated Jun 27)
+- **Coverage gaps:** Review teks tidak tersedia untuk semua rating — gak bisa analisis konten review. 3★ stabil di 4 review (3.4%) — 12 hari bersih, gak bertambah sejak Jun 16. 🟢 Monitoring nama reviewer confirmed working. AGP data belum ada. ESB sales 26 hari (May 31 – Jun 26). ⚠️ Jun 19 (Fri) & Jun 20 (Sat) missing dari ESB ingest. 🔴 **ANOMALI SALES:** Rp 79.9M Selasa Jun 16 — masih unresolved. 🟡 **Sunday Jun 21 Rp 61.9M** — 17% di bawah Sunday avg (Rp 70M+). 🆕 **Jumat Jun 26 Rp 27.1M:** Normal Friday — 185 bills, AOV Rp 146K. Friday sekarang 3 data point: Rp 27.6M → Rp 28.8M → Rp 27.1M (avg Rp 27.8M). Thursday: 4 data point — Rp 20.3M → Rp 28.0M → Rp 30.9M → Rp 24.1M (avg Rp 25.8M). Wednesday: 4 data point — Rp 24.7M → Rp 34.9M → Rp 22.6M → Rp 20.7M (avg Rp 25.7M). Tuesday: 4 data point — Rp 20.8M → Rp 28.4M → Rp 79.9M (⚠️) → Rp 23.8M. Monday: 4 data point — Rp 68.8M → Rp 29.2M → Rp 37.9M → Rp 22.1M. Saturday: 2 data point — Rp 51.8M → Rp 65.5M. Sunday: 4 data point — Rp 75.3M → Rp 77.6M → Rp 71.2M → Rp 61.9M (avg Rp 71.5M). Weekend:weekday ratio ~3–4:1. 🟢 **5★ naik ke 87.4% (104/119).** +2 review 5★ Jun 25-26 (A Google User, Gabriela Sekar). Total tracked: 119. 🟢 **Friday baseline confirmed:** 3 data point — range Rp 27.1-28.8M, konsisten.

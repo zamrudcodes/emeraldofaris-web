@@ -29,28 +29,29 @@
 
 ### What They Complain About
 
-**⚠️ First concern detected.** Review teks dari 2★ dan 3★ tidak tersedia via current monitoring. June 2026 menandai review 2★ pertama (Andi Mohamadyusuf, Jun 12) + 4 review 3★ (Meigummy, M.Y. Ridha, Tya Tami, Al Boss). Total 4 review 3★ sekarang (3.4% dari 117). Tidak ada 3★ atau 2★ baru sejak Jun 16 — 11 hari berturut-turut bersih. Kita gak tau apa yang bikin pelanggan kasih 2-3★.
+**⚠️ First concern detected.** Review teks dari 2★ dan 3★ tidak tersedia via current monitoring. June 2026 menandai review 2★ pertama (Andi Mohamadyusuf, Jun 12) + 4 review 3★ (Meigummy, M.Y. Ridha, Tya Tami, Al Boss). Total 4 review 3★ sekarang (3.4% dari 119). Tidak ada 3★ atau 2★ baru sejak Jun 16 — 12 hari berturut-turut bersih. Kita gak tau apa yang bikin pelanggan kasih 2-3★.
 
 ### Review Velocity
 
 Dari tracked sample (Nov 2025 - Jun 2026):
-- **117 reviews total** terlacak — +5 review baru Jun 25, +5 review baru Jun 23, +dedup correction (-3)
-- 102× 5★ (87.2%), 10× 4★ (8.5%), 4× 3★ (3.4%), 1× 2★ (0.9%)
+- **119 reviews total** terlacak — +2 review baru Jun 25-26, +5 review Jun 25, +5 review Jun 23, +dedup correction (-3)
+- 104× 5★ (87.4%), 10× 4★ (8.4%), 4× 3★ (3.4%), 1× 2★ (0.8%)
 - Velocity: ~2-15/hari, dengan spike Jun 21 (15 review dalam 1 hari — record)
 - Pattern: reviews masuk sepanjang hari, spike di weekend
-- 🟢 **5★ naik ke 87.2%** dengan 102× 5★ dari 117 review total
-- 🟢 **3★ stabil di 4 review (3.4%):** Tidak bertambah sejak Jun 16 — 11 hari bersih.
+- 🟢 **5★ naik ke 87.4%** dengan 104× 5★ dari 119 review total
+- 🟢 **3★ stabil di 4 review (3.4%):** Tidak bertambah sejak Jun 16 — 12 hari bersih.
 - ⚠️ **First 2★ review detected** — Andi Mohamadyusuf (Jun 12). Masih 1 saja.
-- 🟢 **Pipeline improvement confirmed:** Semua 117 review tracked punya nama reviewer.
-- ⚠️ **Dedup correction:** 3 duplikat tambahan teridentifikasi — review count 115 → 112 (sebelum +5 Jun 25).
+- 🟢 **Pipeline improvement confirmed:** Semua 119 review tracked punya nama reviewer.
+- ⚠️ **Dedup correction:** 3 duplikat tambahan teridentifikasi — review count 115 → 112 (sebelum +7 review baru).
 - 🔴 **ANOMALI SALES:** Jun 16 (Selasa) Rp 79.85M — 3.8× baseline Selasa. Total bills 411 (AOV Rp 194K).
+- 🟢 **Jumat Jun 26 Rp 27.1M:** Normal Friday — 185 bills, AOV Rp 146K. Friday baseline: 3 data point (Rp 27.6M, 28.8M, 27.1M; avg Rp 27.8M).
 - 🟢 **Kamis Jun 25 Rp 24.1M:** Normal Thursday — 147 bills, AOV Rp 164K. Thursday baseline: 4 data point (Rp 20.3M, 28.0M, 30.9M, 24.1M; avg Rp 25.8M).
 - 🟢 **Rabu Jun 24 Rp 20.7M:** Normal Wednesday — 140 bills, AOV Rp 148K. Wednesday baseline: 4 data point (Rp 24.7M, 34.9M, 22.6M, 20.7M; avg Rp 25.7M).
 - 🟢 **Selasa Jun 23 Rp 23.8M:** Normal Tuesday. 149 bills, AOV Rp 159.8K. Tuesday baseline: 4 data point (Rp 20.8M, 28.4M, 79.9M⚠️, 23.8M).
 - 🟡 **Sunday Jun 21 sales Rp 61.9M:** 17% di bawah Sunday avg (Rp 71.5M dari 4 data point).
-- 🆕 **Jun 25 reviews:** 5 review baru — Dhea Syafitri (x2), Ferdi Pratama, rama Joyce, Racka Alfariss (semua 5★). 🆕 **Jun 23 reviews:** 5 review baru — Apni Nomansa, Dito Naufal Orlando, Dwi Hastuti, rais kaysan, Andi Yudha Pratama (semua 5★). Tidak ada review baru Jun 24.
+- 🆕 **Jun 25-26 reviews:** 2 review 5★ baru — A Google User (Jun 25), Gabriela Sekar (Jun 26). Sebelumnya: 5 review 5★ Jun 25 (Dhea Syafitri x2, Ferdi Pratama, rama Joyce, Racka Alfariss). 🆕 **Jun 23 reviews:** 5 review baru — Apni Nomansa, Dito Naufal Orlando, Dwi Hastuti, rais kaysan, Andi Yudha Pratama (semua 5★). Tidak ada review baru Jun 24.
 - ⚠️ **Sales gap:** Jun 19 (Fri) & Jun 20 (Sat) missing dari ESB ingest.
-- Sales context 25 hari (Jun 1 – Jun 25): Rp 68.8M (Mon/outlier) → Rp 20.8M (Tue) → Rp 24.7M (Wed) → Rp 20.3M (Thu) → Rp 27.6M (Fri) → Rp 51.8M (Sat) → Rp 77.6M (Sun) → Rp 29.2M (Mon) → Rp 28.4M (Tue) → Rp 34.9M (Wed) → Rp 28.0M (Thu) → Rp 28.8M (Fri) → Rp 65.5M (Sat) → Rp 71.2M (Sun) → Rp 37.9M (Mon) → **Rp 79.9M (Tue ⚠️ OUTLIER)** → **Rp 22.6M (Wed)** → **Rp 30.9M (Thu)** → ~~missing Fri-Sat~~ → **Rp 61.9M (Sun)** → **Rp 22.1M (Mon)** → **Rp 23.8M (Tue)** → **Rp 20.7M (Wed)** → **Rp 24.1M (Thu)**
+- Sales context 26 hari (Jun 1 – Jun 26): Rp 68.8M (Mon/outlier) → Rp 20.8M (Tue) → Rp 24.7M (Wed) → Rp 20.3M (Thu) → Rp 27.6M (Fri) → Rp 51.8M (Sat) → Rp 77.6M (Sun) → Rp 29.2M (Mon) → Rp 28.4M (Tue) → Rp 34.9M (Wed) → Rp 28.0M (Thu) → Rp 28.8M (Fri) → Rp 65.5M (Sat) → Rp 71.2M (Sun) → Rp 37.9M (Mon) → **Rp 79.9M (Tue ⚠️ OUTLIER)** → **Rp 22.6M (Wed)** → **Rp 30.9M (Thu)** → ~~missing Fri-Sat~~ → **Rp 61.9M (Sun)** → **Rp 22.1M (Mon)** → **Rp 23.8M (Tue)** → **Rp 20.7M (Wed)** → **Rp 24.1M (Thu)** → **Rp 27.1M (Fri)**
 - 🆕 Thursday dengan 4 data point: Rp 20.3M → Rp 28.0M → Rp 30.9M → Rp 24.1M (avg Rp 25.8M, range Rp 20.3-30.9M)
 - 🆕 Wednesday dengan 4 data point: Rp 24.7M → Rp 34.9M → Rp 22.6M → Rp 20.7M (avg Rp 25.7M, range Rp 20.7-34.9M)
 - 🆕 Sunday dengan 4 data point: Rp 75.3M → Rp 77.6M → Rp 71.2M → Rp 61.9M (avg Rp 71.5M)
@@ -87,4 +88,4 @@ Dari tracked sample (Nov 2025 - Jun 2026):
 | 🆕 Jun 23 (Tue) sales | Rp 23.8M — normal Tuesday, konfirmasi baseline weekday | Data point ke-4 Tuesday |
 | ⚠️ ESB ingest gap Jun 19-20 | 2 hari sales missing | Investigasi ingest cron |
 | ⚠️ Dedup correction | 3 duplikat tambahan — review count 115 → 112 | Pipeline dedup sudah OJK, tapi perlu tightening |
-| Sales weekday baseline | 25 hari data. Thursday: 4 data point (avg Rp 25.8M, range Rp 20.3-30.9M). Wednesday: 4 data point (avg Rp 25.7M, range Rp 20.7-34.9M). Monday: avg Rp 39.5M (4 pt, exclude outlier → Rp 22-38M). Tuesday: 4 pt (normal Rp 21-28M, exclude outlier Rp 79.9M). Weekday ~Rp 20-35M. ⚠️ Jun 16 outlier. Sunday avg Rp 71.5M. Weekend:weekday ~3–4:1. | |
+- Sales weekday baseline | 26 hari data. Friday: 3 data point (avg Rp 27.8M, konsisten Rp 27-29M). Thursday: 4 data point (avg Rp 25.8M, range Rp 20.3-30.9M). Wednesday: 4 data point (avg Rp 25.7M, range Rp 20.7-34.9M). Monday: avg Rp 39.5M (4 pt, exclude outlier → Rp 22-38M). Tuesday: 4 pt (normal Rp 21-28M, exclude outlier Rp 79.9M). Weekday ~Rp 20-35M. ⚠️ Jun 16 outlier. Sunday avg Rp 71.5M. Weekend:weekday ~3–4:1. | |
