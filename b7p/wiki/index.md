@@ -1,6 +1,6 @@
 # B7P Brand Intelligence Wiki — Master Index
 
-*Auto-compiled by LLM from `raw/` data. Last updated: 2026-07-01.*
+*Auto-compiled by LLM from `raw/` data. Last updated: 2026-07-02.*
 
 ## Wiki Structure
 
@@ -18,12 +18,13 @@
 - [[operations/menu-analysis]] — Breakdown menu: core vs new, price ladder
 
 ## Raw Data Index
-- [[b7p/raw/reviews/google_reviews]] — 145 review rating (Google Maps, tracked sample)
+- [[b7p/raw/reviews/google_reviews]] — 140 review unik (149 raw, 9 duplikat) (Google Maps, tracked sample)
 - [[b7p/raw/reviews/lemon8_review]] — Detailed food blogger review
 - [[b7p/raw/social/social_mentions]] — Instagram, TikTok, YouTube mentions
 - [[b7p/raw/research/brand_profile]] — Compiled brand facts
-- [[b7p/raw/sales/2026-06-29]] — Daily sales (Rp 30.8M gross, Rp 28.1M net, Monday)
+- [[b7p/raw/sales/2026-07-01]] — Daily sales (Rp 36.8M gross, Rp 33.6M net, Wednesday)
 - [[b7p/raw/sales/2026-06-30]] — Daily sales (Rp 38.9M gross, Rp 35.4M net, Tuesday)
+- [[b7p/raw/sales/2026-06-29]] — Daily sales (Rp 30.8M gross, Rp 28.1M net, Monday)
 - [[b7p/raw/sales/2026-06-28]] — Daily sales (Rp 75.0M gross, Rp 68.6M net, Sunday)
 - [[b7p/raw/sales/2026-06-27]] — Daily sales (Rp 59.2M gross, Rp 54.1M net, Saturday)
 - [[b7p/raw/sales/2026-06-26]] — Daily sales (Rp 27.1M gross, Rp 24.7M net, Friday)
@@ -54,14 +55,15 @@
 
 ## Quick Stats
 - **Rating:** 4.7★ (3,135+ reviews)
-- **Review sentiment:** 87.9% 5★ (131), 7.4% 4★ (11), 3.4% 3★ (5), 0.7% 2★ (1), 0.7% 1★ (1) — tracked sample of 149
+- **Review sentiment:** 87.1% 5★ (122), 7.9% 4★ (11), 3.6% 3★ (5), 0.7% 2★ (1), 0.7% 1★ (1) — tracked sample of 140 unik (149 raw, 9 duplikat)
+- ⚠️ **Dedup correction:** Review count dikoreksi 149 → 140. 9 duplikat teridentifikasi (triple-key: nama, rating, tanggal). 5★: 87.9%→87.1%.
 - **Signature item:** Tetelan goreng (disebut di 80%+ konten)
 - **Price range:** Rp 16K – Rp 39K
 - **Halal:** MUI Certified
-- **Daily sales (latest):** Rp 38.9M (Tue Jun 30) / Rp 30.8M (Mon Jun 29) / Rp 75.0M (Sun Jun 28) / Rp 59.2M (Sat Jun 27) / Rp 27.1M (Fri Jun 26) / Rp 24.1M (Thu Jun 25) / Rp 20.7M (Wed Jun 24) / Rp 23.8M (Tue Jun 23) / Rp 22.1M (Mon Jun 22) / Rp 61.9M (Sun Jun 21) / Rp 30.9M (Thu Jun 18) / Rp 79.9M (Tue Jun 16 ⚠️ ANOMALI)
+- **Daily sales (latest):** Rp 36.8M (Wed Jul 1) / Rp 38.9M (Tue Jun 30) / Rp 30.8M (Mon Jun 29) / Rp 75.0M (Sun Jun 28) / Rp 59.2M (Sat Jun 27) / Rp 27.1M (Fri Jun 26) / Rp 24.1M (Thu Jun 25) / Rp 20.7M (Wed Jun 24) / Rp 23.8M (Tue Jun 23) / Rp 22.1M (Mon Jun 22) / Rp 61.9M (Sun Jun 21) / Rp 30.9M (Thu Jun 18) / Rp 79.9M (Tue Jun 16 ⚠️ ANOMALI)
 
 ## Wiki Health
 - **Articles:** 6
 - **Backlinks:** cross-referenced antar artikel
-- **Data freshness:** June–July 2026 (updated Jul 1)
-- **Coverage gaps:** Review teks tidak tersedia untuk semua rating — gak bisa analisis konten review. 🟢 ESB sales 30 hari (May 31 – Jun 30). ⚠️ Jun 19 (Fri) & Jun 20 (Sat) missing dari ESB ingest. 🔴 **ANOMALI SALES:** Rp 79.9M Selasa Jun 16 — masih unresolved. 🟡 **Sunday Jun 21 Rp 61.9M** — 17% di bawah Sunday avg (Rp 71.5M), recovered Jun 28. 🆕 **Selasa Jun 30 Rp 38.9M:** Tuesday ke-5 — 192 bills, AOV Rp 203K. Tuesday baseline: 5 data point — Rp 20.8M → Rp 28.4M → Rp 79.9M (⚠️) → Rp 23.8M → Rp 38.9M (avg excl outlier: Rp 27.9M). 🆕 Senin Jun 29 Rp 30.8M: Monday ke-5 — 192 bills, AOV Rp 160K. Monday baseline: 5 data point — Rp 68.8M → Rp 29.2M → Rp 37.9M → Rp 22.1M → Rp 30.8M (avg Rp 37.8M, excl outlier Rp 68.8M: avg Rp 30.0M). Sunday: 5 data point — Rp 75.3M → Rp 77.6M → Rp 71.2M → Rp 61.9M → Rp 75.0M (avg Rp 72.2M). Saturday baseline: 3 data point — Rp 51.8M → Rp 65.5M → Rp 59.2M (avg Rp 58.8M). Friday: 3 data point — Rp 27.6M → Rp 28.8M → Rp 27.1M (avg Rp 27.8M). Thursday: 4 data point — Rp 20.3M → Rp 28.0M → Rp 30.9M → Rp 24.1M (avg Rp 25.8M). Wednesday: 4 data point — Rp 24.7M → Rp 34.9M → Rp 22.6M → Rp 20.7M (avg Rp 25.7M). Weekend:weekday ratio ~3–4:1. 🟢 **5★ di 87.9% (131/149).** Tidak ada review baru sejak Jun 29. 🆕 **Review terbaru:** 4 review Jun 29 (3× 5★, 1× 4★). 🔴 **FIRST-EVER 1★:** raudhah hayati (Jun 28) — tanpa preseden, severity HIGH. 🔴 **3★ streak broken:** Mochammad Fajar (Jun 28). 3★ tetap 5 (3.4%). 🆕 **AGP reviews:** 58 review tracked (36× 5★, 18× 4★, 2× 3★, 2× 2★). 🟢 **Pipeline confirmed working:** Semua 149 review tracked punya nama reviewer.
+- **Data freshness:** June–July 2026 (updated Jul 2)
+- **Coverage gaps:** Review teks tidak tersedia untuk semua rating — gak bisa analisis konten review. 🟢 ESB sales 31 hari (May 31 – Jul 1). ⚠️ Jun 19 (Fri) & Jun 20 (Sat) missing dari ESB ingest. 🔴 **ANOMALI SALES:** Rp 79.9M Selasa Jun 16 — masih unresolved. 🟡 **Sunday Jun 21 Rp 61.9M** — 17% di bawah Sunday avg (Rp 72.2M), recovered Jun 28. 🆕 **Rabu Jul 1 Rp 36.8M:** Wednesday ke-5 — 211 bills, AOV Rp 174.6K. Wednesday baseline: 5 data point — Rp 24.7M → Rp 34.9M → Rp 22.6M → Rp 20.7M → Rp 36.8M (avg Rp 27.9M). ✅ Tidak anomali (1.3× baseline). 🆕 **Selasa Jun 30 Rp 38.9M:** Tuesday ke-5 — Tuesday baseline: Rp 20.8M → Rp 28.4M → Rp 79.9M (⚠️ excluded) → Rp 23.8M → Rp 38.9M (avg excl outlier: Rp 27.9M). Senin Jun 29 Rp 30.8M: Monday ke-5 — Monday baseline: Rp 68.8M → Rp 29.2M → Rp 37.9M → Rp 22.1M → Rp 30.8M (avg Rp 37.8M, excl outlier Rp 68.8M: avg Rp 30.0M). Sunday: 5 data point — Rp 75.3M → Rp 77.6M → Rp 71.2M → Rp 61.9M → Rp 75.0M (avg Rp 72.2M). Saturday baseline: 3 data point — Rp 51.8M → Rp 65.5M → Rp 59.2M (avg Rp 58.8M). Friday: 3 data point — Rp 27.6M → Rp 28.8M → Rp 27.1M (avg Rp 27.8M). Thursday: 4 data point — Rp 20.3M → Rp 28.0M → Rp 30.9M → Rp 24.1M (avg Rp 25.8M). Weekend:weekday ratio ~3–4:1. 🟢 **5★ di 87.1% (122/140 unik)** — dikoreksi dari 87.9% karena triple-key dedup. Tidak ada review baru sejak Jun 29. 🆕 **Review terbaru:** 4 review Jun 29 (3× 5★, 1× 4★). 🔴 **FIRST-EVER 1★:** raudhah hayati (Jun 28) — tanpa preseden, severity HIGH. 🔴 **3★ streak broken:** Mochammad Fajar (Jun 28). 3★ tetap 5 (3.6%). ⚠️ **Dedup correction:** 149→140 (9 duplikat). Duplikat baru: Dhea Syafitri (Jun 25). 🟢 **Pipeline confirmed working:** Semua 149 review tracked punya nama reviewer. 🟡 **Review velocity stall:** 3 hari tanpa review baru (Jun 30 – Jul 2).

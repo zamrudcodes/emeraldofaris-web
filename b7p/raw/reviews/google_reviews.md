@@ -1,28 +1,28 @@
 # B7P Google Reviews - Raw Data Dump
 
 **Source:** Google Maps Places API via review monitor (7pr_review_state.json)
-**Total reviews tracked:** 113 (105 unique; 8 duplicates)
+**Total reviews tracked:** 149 raw (140 unique; 9 duplicates)
 **Date range:** Nov 2025 - Jun 2026
 **Current rating:** 4.7★ (3,135+ reviews total, per Google Maps)
 
-## Rating Distribution (from tracked sample)
-- ⭐⭐⭐⭐⭐ (5): 98 reviews (86.7%)
-- ⭐⭐⭐⭐ (4): 10 reviews (8.8%)
-- ⭐⭐⭐ (3): 4 reviews (3.5%)
-- ⭐⭐ (2): 1 review (0.9%)
-- ⭐ (1): 0
+## Rating Distribution (from deduped tracked sample: 140 unique)
+- ⭐⭐⭐⭐⭐ (5): 122 reviews (87.1%)
+- ⭐⭐⭐⭐ (4): 11 reviews (7.9%)
+- ⭐⭐⭐ (3): 5 reviews (3.6%)
+- ⭐⭐ (2): 1 review (0.7%)
+- ⭐ (1): 1 review (0.7%)
 
-## All Tracked Reviews
+## All Tracked Reviews (140 unique, deduped)
 
 | Date | Reviewer | Rating |
 |------|----------|--------|
-| 2025-11-29 | theresia vina | ⭐⭐⭐⭐ |
-| 2026-01-13 | Siti Aisyah | ⭐⭐⭐⭐ |
-| 2026-01-20 | Meigummy | ⭐⭐⭐ |
+| 2025-11-29 | theresia vina | ⭐⭐⭐⭐☆ |
+| 2026-01-13 | Siti Aisyah | ⭐⭐⭐⭐☆ |
+| 2026-01-20 | Meigummy | ⭐⭐⭐☆☆ |
 | 2026-02-01 | Tere - (heytheresia) | ⭐⭐⭐⭐⭐ |
 | 2026-02-03 | fe fern | ⭐⭐⭐⭐⭐ |
 | 2026-05-29 | Ahmad Hasan Tolabi | ⭐⭐⭐⭐⭐ |
-| 2026-05-29 | M.Y. Ridha | ⭐⭐⭐ |
+| 2026-05-29 | M.Y. Ridha | ⭐⭐⭐☆☆ |
 | 2026-05-29 | Syahrul mubarok | ⭐⭐⭐⭐⭐ |
 | 2026-05-29 | Sakia Nurul Huda | ⭐⭐⭐⭐⭐ |
 | 2026-05-29 | Ahmad Sandi | ⭐⭐⭐⭐⭐ |
@@ -30,7 +30,7 @@
 | 2026-05-31 | Akbar Eka | ⭐⭐⭐⭐⭐ |
 | 2026-05-31 | Vilga Anggreini | ⭐⭐⭐⭐⭐ |
 | 2026-05-31 | Panji Nugraha | ⭐⭐⭐⭐⭐ |
-| 2026-05-31 | restiana nena | ⭐⭐⭐⭐ |
+| 2026-05-31 | restiana nena | ⭐⭐⭐⭐☆ |
 | 2026-05-31 | Gatot Candra | ⭐⭐⭐⭐⭐ |
 | 2026-05-31 | Rokhima Murdaningdyah | ⭐⭐⭐⭐⭐ |
 | 2026-05-31 | Bra im | ⭐⭐⭐⭐⭐ |
@@ -43,11 +43,10 @@
 | 2026-06-01 | Triyanto Hadipranoto | ⭐⭐⭐⭐⭐ |
 | 2026-06-01 | Kenzie Gaming Animations | ⭐⭐⭐⭐⭐ |
 | 2026-06-01 | Grace Sancaya | ⭐⭐⭐⭐⭐ |
-| 2026-06-01 | Grace Sancaya | ⭐⭐⭐⭐⭐ |
 | 2026-06-01 | Harris Tri Pratama | ⭐⭐⭐⭐⭐ |
 | 2026-06-01 | hurriyah proklamasi | ⭐⭐⭐⭐⭐ |
 | 2026-06-02 | Ade Haris | ⭐⭐⭐⭐⭐ |
-| 2026-06-02 | Penerangan Kodim 0818 | ⭐⭐⭐⭐ |
+| 2026-06-02 | Penerangan Kodim 0818 | ⭐⭐⭐⭐☆ |
 | 2026-06-04 | Eva dian Nurmala | ⭐⭐⭐⭐⭐ |
 | 2026-06-04 | Riky Andriansyah | ⭐⭐⭐⭐⭐ |
 | 2026-06-04 | Dita Laksmita | ⭐⭐⭐⭐⭐ |
@@ -57,19 +56,19 @@
 | 2026-06-05 | Salman Azhar (Isal) | ⭐⭐⭐⭐⭐ |
 | 2026-06-06 | Fadia Ramadhan | ⭐⭐⭐⭐⭐ |
 | 2026-06-06 | Wahyu Irawan | ⭐⭐⭐⭐⭐ |
-| 2026-06-06 | Ayu Maharani | ⭐⭐⭐⭐ |
-| 2026-06-07 | Ridwan Arieftriansyah | ⭐⭐⭐⭐ |
+| 2026-06-06 | Ayu Maharani | ⭐⭐⭐⭐☆ |
+| 2026-06-07 | Ridwan Arieftriansyah | ⭐⭐⭐⭐☆ |
 | 2026-06-07 | Al Amin | ⭐⭐⭐⭐⭐ |
 | 2026-06-07 | storagefrom cia | ⭐⭐⭐⭐⭐ |
 | 2026-06-07 | Christian Niko Saputra | ⭐⭐⭐⭐⭐ |
-| 2026-06-07 | Mommy Lie (Kiyomi) | ⭐⭐⭐⭐ |
+| 2026-06-07 | Mommy Lie (Kiyomi) | ⭐⭐⭐⭐☆ |
 | 2026-06-11 | Ismi | ⭐⭐⭐⭐⭐ |
-| 2026-06-12 | Andi Mohamadyusuf | ⭐⭐ |
+| 2026-06-12 | Andi Mohamadyusuf | ⭐⭐☆☆☆ |
 | 2026-06-12 | abdul somad | ⭐⭐⭐⭐⭐ |
 | 2026-06-12 | natasya putri | ⭐⭐⭐⭐⭐ |
 | 2026-06-12 | Nicky Mardhiatsani | ⭐⭐⭐⭐⭐ |
 | 2026-06-13 | syalitha athasya | ⭐⭐⭐⭐⭐ |
-| 2026-06-13 | hasrizal | ⭐⭐⭐⭐ |
+| 2026-06-13 | hasrizal | ⭐⭐⭐⭐☆ |
 | 2026-06-13 | tiwtiw 88 | ⭐⭐⭐⭐⭐ |
 | 2026-06-13 | Nurul Faizah | ⭐⭐⭐⭐⭐ |
 | 2026-06-13 | Pebrina Setianingsih | ⭐⭐⭐⭐⭐ |
@@ -77,23 +76,18 @@
 | 2026-06-13 | Noviana Syahban | ⭐⭐⭐⭐⭐ |
 | 2026-06-13 | Samantha Anggraini | ⭐⭐⭐⭐⭐ |
 | 2026-06-13 | Patika Anggraini | ⭐⭐⭐⭐⭐ |
-| 2026-06-13 | Patika Anggraini | ⭐⭐⭐⭐⭐ |
 | 2026-06-13 | Pandu Kharisma | ⭐⭐⭐⭐⭐ |
 | 2026-06-13 | Ahman Donk | ⭐⭐⭐⭐⭐ |
 | 2026-06-13 | Perdana Febrian | ⭐⭐⭐⭐⭐ |
 | 2026-06-14 | Putri Devi Permatasari | ⭐⭐⭐⭐⭐ |
-| 2026-06-14 | Putri Devi Permatasari | ⭐⭐⭐⭐⭐ |
 | 2026-06-14 | Mela Astifa | ⭐⭐⭐⭐⭐ |
-| 2026-06-14 | Mela Astifa | ⭐⭐⭐⭐⭐ |
-| 2026-06-15 | Tya Tami | ⭐⭐⭐ |
+| 2026-06-15 | Tya Tami | ⭐⭐⭐☆☆ |
 | 2026-06-15 | Mutiara S | ⭐⭐⭐⭐⭐ |
-| 2026-06-15 | Mutiara S | ⭐⭐⭐⭐⭐ |
-| 2026-06-15 | Farihani Adnan | ⭐⭐⭐⭐ |
-| 2026-06-16 | Rayhaan Imtiyaz | ⭐⭐⭐⭐⭐ |
+| 2026-06-15 | Farihani Adnan | ⭐⭐⭐⭐☆ |
 | 2026-06-16 | Rayhaan Imtiyaz | ⭐⭐⭐⭐⭐ |
 | 2026-06-16 | Meyliani Halim | ⭐⭐⭐⭐⭐ |
 | 2026-06-16 | Antavaya- Adelia | ⭐⭐⭐⭐⭐ |
-| 2026-06-16 | Al Boss | ⭐⭐⭐ |
+| 2026-06-16 | Al Boss | ⭐⭐⭐☆☆ |
 | 2026-06-16 | davan Yudi | ⭐⭐⭐⭐⭐ |
 | 2026-06-16 | Yohan Bibie | ⭐⭐⭐⭐⭐ |
 | 2026-06-16 | Nenden Nila | ⭐⭐⭐⭐⭐ |
@@ -107,7 +101,7 @@
 | 2026-06-17 | Triasya Triasya | ⭐⭐⭐⭐⭐ |
 | 2026-06-18 | kay | ⭐⭐⭐⭐⭐ |
 | 2026-06-18 | Ultra Men | ⭐⭐⭐⭐⭐ |
-| 2026-06-19 | Rani Hafsaridewi | ⭐⭐⭐⭐ |
+| 2026-06-19 | Rani Hafsaridewi | ⭐⭐⭐⭐☆ |
 | 2026-06-19 | sucinovilani | ⭐⭐⭐⭐⭐ |
 | 2026-06-20 | Luna Colombini Adam | ⭐⭐⭐⭐⭐ |
 | 2026-06-20 | Muhammad Richo | ⭐⭐⭐⭐⭐ |
@@ -121,25 +115,59 @@
 | 2026-06-21 | chantika amelia | ⭐⭐⭐⭐⭐ |
 | 2026-06-21 | Amelia Laura | ⭐⭐⭐⭐⭐ |
 | 2026-06-21 | Euis Kurniasih | ⭐⭐⭐⭐⭐ |
-| 2026-06-21 | Euis Kurniasih | ⭐⭐⭐⭐⭐ |
-| 2026-06-21 | Andria Maulidia | ⭐⭐⭐⭐⭐ |
 | 2026-06-21 | Andria Maulidia | ⭐⭐⭐⭐⭐ |
 | 2026-06-21 | Intania Yasmin | ⭐⭐⭐⭐⭐ |
 | 2026-06-21 | 21.084_Raden Najwa Solehati | ⭐⭐⭐⭐⭐ |
 | 2026-06-21 | Tiara Rahmah | ⭐⭐⭐⭐⭐ |
 | 2026-06-21 | Blue Bluedog | ⭐⭐⭐⭐⭐ |
 | 2026-06-21 | Naufal Fallah | ⭐⭐⭐⭐⭐ |
+| 2026-06-22 | Arira Shyfa | ⭐⭐⭐⭐⭐ |
+| 2026-06-22 | Malik Abdul Fatah | ⭐⭐⭐⭐⭐ |
+| 2026-06-23 | Apni Nomansa | ⭐⭐⭐⭐⭐ |
+| 2026-06-23 | Dito Naufal Orlando | ⭐⭐⭐⭐⭐ |
+| 2026-06-23 | Dwi Hastuti | ⭐⭐⭐⭐⭐ |
+| 2026-06-23 | rais kaysan | ⭐⭐⭐⭐⭐ |
+| 2026-06-23 | Andi Yudha Pratama | ⭐⭐⭐⭐⭐ |
+| 2026-06-25 | Dhea Syafitri | ⭐⭐⭐⭐⭐ |
+| 2026-06-25 | Ferdi Pratama | ⭐⭐⭐⭐⭐ |
+| 2026-06-25 | rama "Joyce" | ⭐⭐⭐⭐⭐ |
+| 2026-06-25 | A Google User | ⭐⭐⭐⭐⭐ |
+| 2026-06-25 | Racka Alfariss | ⭐⭐⭐⭐⭐ |
+| 2026-06-26 | Gabriela Sekar | ⭐⭐⭐⭐⭐ |
+| 2026-06-27 | Feby | ⭐⭐⭐⭐⭐ |
+| 2026-06-27 | Fitri Alfarizki | ⭐⭐⭐⭐⭐ |
+| 2026-06-27 | Temmy Agustin | ⭐⭐⭐⭐⭐ |
+| 2026-06-27 | kalyca Damayanti | ⭐⭐⭐⭐⭐ |
+| 2026-06-27 | Ria Stokelan | ⭐⭐⭐⭐⭐ |
+| 2026-06-27 | Ria hy | ⭐⭐⭐⭐⭐ |
+| 2026-06-27 | Arman Saputra | ⭐⭐⭐⭐⭐ |
+| 2026-06-27 | Miya Mlbb | ⭐⭐⭐⭐⭐ |
+| 2026-06-27 | Taurus Cipta Mandiri | ⭐⭐⭐⭐⭐ |
+| 2026-06-27 | has tomo | ⭐⭐⭐⭐⭐ |
+| 2026-06-27 | Henik Subekti | ⭐⭐⭐⭐⭐ |
+| 2026-06-27 | Agita Hendika Putri | ⭐⭐⭐⭐⭐ |
+| 2026-06-28 | Wara Noveka | ⭐⭐⭐⭐⭐ |
+| 2026-06-28 | Rosma Watiayu | ⭐⭐⭐⭐⭐ |
+| 2026-06-28 | raudhah hayati | ⭐☆☆☆☆ |
+| 2026-06-28 | Ditta | ⭐⭐⭐⭐⭐ |
+| 2026-06-28 | Yanuedi Melayanto | ⭐⭐⭐⭐⭐ |
+| 2026-06-28 | Mochammad Fajar | ⭐⭐⭐☆☆ |
+| 2026-06-29 | nanda ivana | ⭐⭐⭐⭐☆ |
+| 2026-06-29 | Dewagedepuja Trisuda | ⭐⭐⭐⭐⭐ |
+| 2026-06-29 | Joko ipb117 | ⭐⭐⭐⭐⭐ |
+| 2026-06-29 | Alif Lebrian | ⭐⭐⭐⭐⭐ |
 
 ## Notes
 - Only ratings tracked (review text not available via current Places API scrape)
-- 3-star reviews from Meigummy, M.Y. Ridha, Tya Tami, and Al Boss — text unknown
-- 2-star review from Andi Mohamadyusuf (Jun 12) — text unknown, first ever tracked
-- 113/3,135 = 3.6% of total reviews tracked
-- **Duplicates (8):** Grace Sancaya (Jun 1, 2×), Patika Anggraini (Jun 13, 2×), Putri Devi Permatasari (Jun 14, 2×), Mela Astifa (Jun 14, 2×), Mutiara S (Jun 15, 2×), Rayhaan Imtiyaz (Jun 16, 2×), Euis Kurniasih (Jun 21, 2×), Andria Maulidia (Jun 21, 2×)
-- 🟢 **Pipeline improvement confirmed:** Semua 113 review punya nama reviewer. Monitoring gap resolved total.
-- 🟢 **5★ naik signifikan:** 84.6% → 86.7% (+2.1pp). 22 dari 24 review baru adalah 5★. Hanya 1 review 4★ baru (Rani Hafsaridewi, Jun 19).
-- 🟢 **3★ stabil di 4 review (3.5%):** Tidak ada review 3★ baru sejak Jun 16. 6 hari bersih berturut-turut.
-- 🟢 **No new 2★:** Tetap 1 review (Andi Mohamadyusuf).
-- ⚠️ **Jun 21 spike:** 15 review dalam 1 hari (termasuk 4 duplikat). Review velocity tertinggi sepanjang tracked history. Kemungkinan weekend crowd + word-of-mouth momentum.
+- 3-star reviews from Meigummy, M.Y. Ridha, Tya Tami, Al Boss, and Mochammad Fajar — text unknown
+- 2-star review from Andi Mohamadyusuf (Jun 12) — text unknown
+- 1-star review from raudhah hayati (Jun 28) — text unknown, first ever tracked 1★
+- 140/3,135 = 4.5% of total reviews tracked
+- **Duplicates (9):** Grace Sancaya (Jun 1), Patika Anggraini (Jun 13), Putri Devi Permatasari (Jun 14), Mela Astifa (Jun 14), Mutiara S (Jun 15), Rayhaan Imtiyaz (Jun 16), Euis Kurniasih (Jun 21), Andria Maulidia (Jun 21), Dhea Syafitri (Jun 25)
+- 🟢 **Pipeline confirmed working:** Semua 149 review punya nama reviewer. Monitoring gap resolved total.
+- 🟢 **5★ di 87.1% (122/140 unique).** 3 review baru sejak Jun 25: 2×5★ + 1×4★ (Jun 27-29).
+- 🟡 **5★ turun 0.8pp vs compile sebelumnya (87.9%→87.1%)** — efek dedup correction: 9 duplikat dihapus, dominan 5★.
+- 🔴 **FIRST-EVER 1★:** raudhah hayati (Jun 28) — tanpa preseden, severity HIGH.
+- 🔴 **3★ streak BROKEN:** Mochammad Fajar (Jun 28). 5 review 3★ total (3.6%).
 - ⚠️ Review teks tidak tersedia untuk SEMUA rating — gak bisa analisis konten review.
-- ⚠️ **2 duplikat baru (Jun 21):** Euis Kurniasih, Andria Maulidia — total 8 kasus.
+- ⚠️ **Jun 21 spike:** 15 review dalam 1 hari (termasuk 4 duplikat). Review velocity tertinggi sepanjang tracked history.
