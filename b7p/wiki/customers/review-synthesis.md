@@ -48,18 +48,19 @@ Dari tracked sample (Nov 2025 - Jun 2026):
 - ⚠️ **First 2★ review detected** — Andi Mohamadyusuf (Jun 12). Masih 1 saja.
 - 🟢 **Pipeline improvement confirmed:** Semua 149 review tracked punya nama reviewer.
 - 🆕 **Jun 29 reviews:** 4 review baru — 3× 5★ (Alif Lebrian, Joko ipb117, Dewagedepuja Trisuda), 1× 4★ (nanda ivana). Hari Senin, velocity rendah — normal.
+- 🆕 **Kamis Jul 2 sales Rp 31.9M:** Thursday ke-5 — 202 bills, AOV Rp 158K. Thursday baseline: 5 data point avg Rp 27.0M. ✅ Tidak anomali.
 - 🆕 **Rabu Jul 1 sales Rp 36.8M:** Wednesday ke-5 — 211 bills, AOV Rp 174.6K. Wednesday baseline: 5 data point avg Rp 27.9M. ✅ Tidak anomali.
 - 🔴 **ANOMALI SALES:** Jun 16 (Selasa) Rp 79.85M — 3.8× baseline Selasa. Total bills 411 (AOV Rp 194K).
 - 🟢 **Minggu Jun 28 Rp 75.0M:** Sunday ke-5 — 390 bills, AOV Rp 192K. 4.9% di atas Sunday avg. Sunday recovery confirmed setelah Jun 21 dip.
 - 🟢 **Sabtu Jun 27 Rp 59.2M:** Saturday ke-3 — 341 bills, AOV Rp 174K. Saturday baseline: 3 data point (avg Rp 58.8M).
 - 🟡 **Sunday Jun 21 sales Rp 61.9M:** 17% di bawah Sunday avg (Rp 72.2M dari 5 data point). 🟢 Recovered Jun 28.
 - ⚠️ **Sales gap:** Jun 19 (Fri) & Jun 20 (Sat) missing dari ESB ingest.
-- 🆕 Sales context 30 hari (May 31 – Jul 1): Rp 68.8M (Mon/outlier) → Rp 20.8M (Tue) → Rp 24.7M (Wed) → Rp 20.3M (Thu) → Rp 27.6M (Fri) → Rp 51.8M (Sat) → Rp 77.6M (Sun) → Rp 29.2M (Mon) → Rp 28.4M (Tue) → Rp 34.9M (Wed) → Rp 28.0M (Thu) → Rp 28.8M (Fri) → Rp 65.5M (Sat) → Rp 71.2M (Sun) → Rp 37.9M (Mon) → **Rp 79.9M (Tue ⚠️ OUTLIER)** → **Rp 22.6M (Wed)** → **Rp 30.9M (Thu)** → ~~missing Fri-Sat~~ → **Rp 61.9M (Sun)** → **Rp 22.1M (Mon)** → **Rp 23.8M (Tue)** → **Rp 20.7M (Wed)** → **Rp 24.1M (Thu)** → **Rp 27.1M (Fri)** → **Rp 59.2M (Sat)** → **Rp 75.0M (Sun)** → **Rp 30.8M (Mon)** → **Rp 38.9M (Tue)** → **Rp 36.8M (Wed)**
+- 🆕 Sales context 31 hari (May 31 – Jul 2): Rp 68.8M (Mon/outlier) → Rp 20.8M (Tue) → Rp 24.7M (Wed) → Rp 20.3M (Thu) → Rp 27.6M (Fri) → Rp 51.8M (Sat) → Rp 77.6M (Sun) → Rp 29.2M (Mon) → Rp 28.4M (Tue) → Rp 34.9M (Wed) → Rp 28.0M (Thu) → Rp 28.8M (Fri) → Rp 65.5M (Sat) → Rp 71.2M (Sun) → Rp 37.9M (Mon) → **Rp 79.9M (Tue ⚠️ OUTLIER)** → **Rp 22.6M (Wed)** → **Rp 30.9M (Thu)** → ~~missing Fri-Sat~~ → **Rp 61.9M (Sun)** → **Rp 22.1M (Mon)** → **Rp 23.8M (Tue)** → **Rp 20.7M (Wed)** → **Rp 24.1M (Thu)** → **Rp 27.1M (Fri)** → **Rp 59.2M (Sat)** → **Rp 75.0M (Sun)** → **Rp 30.8M (Mon)** → **Rp 38.9M (Tue)** → **Rp 36.8M (Wed)** → **Rp 31.9M (Thu)**
 - Saturday: 3 data point — avg Rp 58.8M (range Rp 51.8-65.5M)
 - Sunday: 5 data point — avg Rp 72.2M (range Rp 61.9-77.6M)
 - Monday: 5 data point — avg Rp 37.8M (excl outlier Rp 68.8M: avg Rp 30.0M)
 - Friday: 3 data point — Rp 27.6M, 28.8M, 27.1M (konsisten, avg Rp 27.8M)
-- Thursday: 4 data point — avg Rp 25.8M (range Rp 20.3-30.9M)
+- Thursday: 5 data point — avg Rp 27.0M (range Rp 20.3-31.9M)
 - Wednesday: 5 data point — avg Rp 27.9M (range Rp 20.7-36.8M)
 - Tuesday: 5 data point — normal Rp 21-39M (excl. anomali Rp 79.9M)
 - ⚠️ **Dedup correction:** 149→140 (9 duplikat). Metodologi: triple-key (nama, rating, tanggal).
@@ -94,4 +95,4 @@ Dari tracked sample (Nov 2025 - Jun 2026):
 | ⚠️ ESB ingest gap Jun 19-20 | 2 hari sales missing | Investigasi ingest cron |
 | 🔴 3★ streak broken | 14 hari bersih → Mochammad Fajar (Jun 28). Jun 29 bersih | Monitor terus |
 | ⚠️ Dedup correction | 149→140 (9 duplikat). Triple-key dedup diterapkan | Recalculate percentages |
-| 🟡 Review stall | 3 hari tanpa review baru (Jun 30 – Jul 2) | Monitor pipeline scraper |
+| 🟡 Review stall | 4 hari tanpa review baru (Jun 30 – Jul 3) | Monitor pipeline scraper — escalate ke 🔴 di 7+ hari |
