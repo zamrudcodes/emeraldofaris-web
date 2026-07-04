@@ -90,9 +90,9 @@ Dari tracked sample (Nov 2025 - Jun 2026):
 | 🟡 Sunday dip Jun 21 | Rp 61.9M — 17% di bawah avg. 🟢 Recovered Jun 28 | Monitor — one-off confirmed |
 | 🟢 Sunday baseline | 5 data point, avg Rp 72.2M | Baseline solid |
 | 🟢 Monday baseline | 5 data point, avg ~Rp 37.8M (excl outlier: ~Rp 30.0M) | Baseline growing |
-| 🟢 Saturday baseline | 3 data point, avg Rp 58.8M | Konfirmasi butuh lebih banyak data point |
+| 🟢 Saturday baseline | 4 data point, avg Rp 61.1M | Baseline solid — 🆕 Jul 4 Rp 67.8M (1.1×) |
 | 🟢 Wednesday baseline | 5 data point, avg Rp 27.9M | Baseline growing — Jul 1 Rp 36.8M above avg |
 | ⚠️ ESB ingest gap Jun 19-20 | 2 hari sales missing | Investigasi ingest cron |
 | 🔴 3★ streak broken | 14 hari bersih → Mochammad Fajar (Jun 28). Jun 29 bersih | Monitor terus |
 | ⚠️ Dedup correction | 149→140 (9 duplikat). Triple-key dedup diterapkan | Recalculate percentages |
-| 🟡 Review stall | 4 hari tanpa review baru (Jun 30 – Jul 3) | Monitor pipeline scraper — escalate ke 🔴 di 7+ hari |
+| 🟡 Review stall | 6 hari tanpa review baru (Jun 30 – Jul 5) | Monitor pipeline scraper — escalate ke 🔴 besok (Jul 6) |

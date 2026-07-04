@@ -2,7 +2,7 @@
 
 *Compiled from: [[raw/reviews/google_reviews]], [[raw/reviews/lemon8_review]], [[raw/social/social_mentions]]*
 *Backlinks: [[index]], [[customers/review-synthesis]], [[insights/product-moat]]*
-*Last updated: 2026-07-03*
+*Last updated: 2026-07-05*
 
 ---
 
@@ -93,14 +93,14 @@ Dari 140 review unik terlacak (149 raw, 9 duplikat, Nov 2025 - Jun 2026):
 - ⚠️ **Missing:** Teks review 3★ (5 reviews) + 2★ (1 review) + 1★ (1 review) — gak bisa analisis root cause. Total 7 review kritis tanpa teks.
 - 🟢 **Monitoring names resolved:** Semua 149 review tracked punya nama
 - 🟢 **Sunday baseline:** 5 data point, avg Rp 72.2M. Range Rp 61.9-77.6M.
-- 🟢 **Saturday baseline:** 3 data point (Rp 51.8M, 65.5M, 59.2M; avg Rp 58.8M). Range Rp 51.8-65.5M.
+- 🟢 **Saturday baseline:** 4 data point (Rp 51.8M, 65.5M, 59.2M, 67.8M; avg Rp 61.1M). Range Rp 51.8-67.8M. 🆕 Jul 4: Rp 67.8M (395 bills, AOV Rp 171.7K).
 - 🟢 **Monday baseline:** 5 data point. Excl outlier Rp 68.8M, avg ~Rp 30.0M dari 4 data point normal.
 - 🟢 **Thursday baseline:** 5 data point (avg Rp 27.0M, range Rp 20.3-31.9M). Jul 2 Rp 31.9M — above avg but normal.
 - 🟢 **Wednesday baseline:** 5 data point (avg Rp 27.9M, range Rp 20.7-36.8M). Jul 1 Rp 36.8M — above avg but normal.
-- 🟢 **ESB sales:** 31 hari (May 31 – Jul 2). 🔴 Jun 16 Selasa Rp 79.9M outlier unresolved. ⚠️ Jun 19-20 missing. 🟢 Thursday 5 data point (avg Rp 27.0M). 🟢 Wednesday 5 data point (avg Rp 27.9M). 🟢 Tuesday 5 data point (excl outlier: avg Rp 27.9M). 🟢 Sunday 5 data point (avg Rp 72.2M). Saturday 3 data point (avg Rp 58.8M). Monday 5 data point. Friday 3 data point (avg Rp 27.8M).
+- 🟢 **ESB sales:** 34 hari (May 31 – Jul 4). 🔴 Jun 16 Selasa Rp 79.9M outlier unresolved. ⚠️ Jun 19-20 missing. 🟢 Thursday 5 data point (avg Rp 27.0M). 🟢 Wednesday 5 data point (avg Rp 27.9M). 🟢 Tuesday 5 data point (excl outlier: avg Rp 27.9M). 🟢 Sunday 5 data point (avg Rp 72.2M). Saturday 4 data point (avg Rp 61.1M). Monday 5 data point. Friday 4 data point (avg Rp 28.8M).
 - ⚠️ **Pending:** Korelasi review ↔ revenue — butuh analisis lebih dalam. Jun 21: 15 review baru (semua 5★) tapi sales Sunday terendah (Rp 61.9M) — kontradiksi menarik.
 - ⚠️ **Dedup correction:** 149→140. Duplikat baru: Dhea Syafitri (Jun 25). Total 9 duplikat.
-- 🟡 **Review velocity stall:** 4 hari tanpa review baru (Jun 30 – Jul 3). 🟡 flag aktif — monitor scraper pipeline.
+- 🟡 **Review velocity stall:** 6 hari tanpa review baru (Jun 30 – Jul 5). 🟡 flag aktif — monitor scraper pipeline. ⚠️ Escalate 🔴 besok (Jul 6 = 7 hari).
 
 ### Questions for Further Research
 1. **🔴 INVESTIGASI:** Apa isi review 1★ raudhah hayati? Ini prioritas #1.
@@ -110,4 +110,4 @@ Dari 140 review unik terlacak (149 raw, 9 duplikat, Nov 2025 - Jun 2026):
 5. **⚠️ Kenapa Jun 19-20 missing dari ESB?** Ingest cron mati atau ESB maintenance?
 6. Apa isi review 2★ dan 3★ lainnya? Pattern keluhan?
 7. Apakah review 5★ drive repeat purchase? (butuh data ESB)
-8. Weekday baseline ~Rp 20-35M terkonfirmasi dengan 23 hari weekday. ⚠️ Jun 16 outlier ekstrem. 🟢 Saturday 3 data point (avg Rp 58.8M). 🟢 Monday 5 data point (avg ~Rp 37.8M incl outlier, ~Rp 30.0M excl). 🟢 Thursday 5 data point (avg Rp 27.0M). 🟢 Wednesday 5 data point (avg Rp 27.9M). 🟢 Friday 3 data point (avg Rp 27.8M). 🟢 Tuesday 5 data point (avg excl outlier: Rp 27.9M). 🟢 Sunday 5 data point (avg Rp 72.2M).
+8. Weekday baseline ~Rp 20-35M terkonfirmasi dengan 23 hari weekday. ⚠️ Jun 16 outlier ekstrem. 🟢 Saturday 4 data point (avg Rp 61.1M). 🟢 Monday 5 data point (avg ~Rp 37.8M incl outlier, ~Rp 30.0M excl). 🟢 Thursday 5 data point (avg Rp 27.0M). 🟢 Wednesday 5 data point (avg Rp 27.9M). 🟢 Friday 4 data point (avg Rp 28.8M). 🟢 Tuesday 5 data point (avg excl outlier: Rp 27.9M). 🟢 Sunday 5 data point (avg Rp 72.2M).
