@@ -1,6 +1,6 @@
 # B7P Brand Intelligence Wiki — Master Index
 
-*Auto-compiled by LLM from `raw/` data. Last updated: 2026-07-15.*
+*Auto-compiled by LLM from `raw/` data. Last updated: 2026-07-16.*
 
 ## Wiki Structure
 
@@ -22,6 +22,7 @@
 |- [[b7p/raw/reviews/lemon8_review]] — Detailed food blogger review
 |- [[b7p/raw/social/social_mentions]] — Instagram, TikTok, YouTube mentions
 |- [[b7p/raw/research/brand_profile]] — Compiled brand facts
+|- [[b7p/raw/sales/2026-07-15]] — Daily sales (Rp 21.1M gross, Rp 19.2M net, Wednesday)
 |- [[b7p/raw/sales/2026-07-14]] — Daily sales (Rp 23.3M gross, Rp 21.2M net, Tuesday)
 |- [[b7p/raw/sales/2026-07-13]] — Daily sales (Rp 21.2M gross, Rp 19.3M net, Monday)
 |- [[b7p/raw/sales/2026-07-12]] — Daily sales (Rp 58.9M gross, Rp 53.6M net, Sunday)
@@ -73,10 +74,10 @@
 - **Signature item:** Tetelan goreng (disebut di 80%+ konten)
 - **Price range:** Rp 16K – Rp 39K
 - **Halal:** MUI Certified
-|- **Daily sales (latest):** Rp 23.3M (Tue Jul 14) / Rp 21.2M (Mon Jul 13) / Rp 58.9M (Sun Jul 12) / Rp 30.7M (Fri Jul 10) / Rp 40.6M (Thu Jul 9) / Rp 34.0M (Wed Jul 8) / Rp 27.7M (Tue Jul 7) / Rp 28.4M (Mon Jul 6) / Rp 67.6M (Sun Jul 5) / Rp 67.8M (Sat Jul 4) / Rp 31.6M (Fri Jul 3) / Rp 31.9M (Thu Jul 2) / Rp 36.8M (Wed Jul 1) / Rp 38.9M (Tue Jun 30) / Rp 30.8M (Mon Jun 29) / Rp 75.0M (Sun Jun 28) / Rp 59.2M (Sat Jun 27) / Rp 27.1M (Fri Jun 26) / Rp 24.1M (Thu Jun 25) / Rp 20.7M (Wed Jun 24) / Rp 23.8M (Tue Jun 23) / Rp 22.1M (Mon Jun 22) / Rp 61.9M (Sun Jun 21) / Rp 30.9M (Thu Jun 18) / Rp 79.9M (Tue Jun 16 ⚠️ ANOMALI)
+|- **Daily sales (latest):** Rp 21.1M (Wed Jul 15) / Rp 23.3M (Tue Jul 14) / Rp 21.2M (Mon Jul 13) / Rp 58.9M (Sun Jul 12) / Rp 30.7M (Fri Jul 10) / Rp 40.6M (Thu Jul 9) / Rp 34.0M (Wed Jul 8) / Rp 27.7M (Tue Jul 7) / Rp 28.4M (Mon Jul 6) / Rp 67.6M (Sun Jul 5) / Rp 67.8M (Sat Jul 4) / Rp 31.6M (Fri Jul 3) / Rp 31.9M (Thu Jul 2) / Rp 36.8M (Wed Jul 1) / Rp 38.9M (Tue Jun 30) / Rp 30.8M (Mon Jun 29) / Rp 75.0M (Sun Jun 28) / Rp 59.2M (Sat Jun 27) / Rp 27.1M (Fri Jun 26) / Rp 24.1M (Thu Jun 25) / Rp 20.7M (Wed Jun 24) / Rp 23.8M (Tue Jun 23) / Rp 22.1M (Mon Jun 22) / Rp 61.9M (Sun Jun 21) / Rp 30.9M (Thu Jun 18) / Rp 79.9M (Tue Jun 16 ⚠️ ANOMALI)
 
 ## Wiki Health
 - **Articles:** 6
 - **Backlinks:** cross-referenced antar artikel
-- **Data freshness:** June–July 2026 (updated Jul 15)
-- **Coverage gaps:** Review teks tidak tersedia untuk semua rating — gak bisa analisis konten review. 🟢 ESB sales 44 hari (May 31 – Jul 14). ⚠️ Jun 19 (Fri) & Jun 20 (Sat) missing dari ESB ingest. 🔴 **ANOMALI SALES:** Rp 79.9M Selasa Jun 16 — masih unresolved. 🆕 **Selasa Jul 14 Rp 23.3M:** Tuesday ke-6 (excl outlier) — 154 bills, AOV Rp 151K. 15.5% di bawah Tuesday avg (Rp 27.2M). 🆕 **Senin Jul 13 Rp 21.2M:** Monday ke-6 (excl outlier) — 158 bills, AOV Rp 133.9K. 28.8% di bawah Monday avg (Rp 28.3M). ⚠️ Monday low — pola weekday normal (Jun 22 Rp 22.1M). 🟢 **Saturday baseline:** 5 data point (avg Rp 62.4M, range Rp 51.8M–67.8M). 🟢 **Thursday baseline:** 6 data point (avg Rp 29.3M, range Rp 20.3M–40.6M). 🟢 **Friday baseline:** 5 data point (avg Rp 29.2M, range Rp 27.1M–31.6M). 🟢 **Wednesday baseline:** 6 data point (avg Rp 29.0M, range Rp 20.7M–36.8M). 🟢 **Tuesday baseline:** 6 data point (excl outlier, avg Rp 27.2M). 🟢 **Monday baseline:** 6 data point (excl outlier: avg Rp 28.3M). 🟢 **Sunday baseline:** 7 data point (avg Rp 69.6M, range Rp 58.9M–77.6M). 🟢 **5★ di 87.1% (122/140 unik)**. Tidak ada review baru sejak Jun 30 (last review: Irfan Rustaman 5★ Jun 30). 🔴 **REVIEW STALL:** 16 hari tanpa review baru (Jun 30 – Jul 15). Threshold EXCEEDED dua digit. Pipeline last_check stuck (14 hari stale).
+- **Data freshness:** June–July 2026 (updated Jul 16)
+- **Coverage gaps:** Review teks tidak tersedia untuk semua rating — gak bisa analisis konten review. 🟢 ESB sales 45 hari (May 31 – Jul 15). ⚠️ Jun 19 (Fri) & Jun 20 (Sat) missing dari ESB ingest. 🔴 **ANOMALI SALES:** Rp 79.9M Selasa Jun 16 — masih unresolved. 🆕 **Selasa Jul 14 Rp 23.3M:** Tuesday ke-6 (excl outlier) — 154 bills, AOV Rp 151K. 15.5% di bawah Tuesday avg (Rp 27.2M). 🆕 **Rabu Jul 15 Rp 21.1M:** Wednesday ke-7 — 151 bills, AOV Rp 139.6K. 27.2% di bawah Wednesday avg (Rp 27.8M). ⚠️ Rabu terendah kedua setelah Jun 24 (Rp 20.7M). 🆕 **Senin Jul 13 Rp 21.2M:** Monday ke-6 (excl outlier) — 158 bills, AOV Rp 133.9K. 28.8% di bawah Monday avg (Rp 28.3M). ⚠️ Monday low — pola weekday normal (Jun 22 Rp 22.1M). 🟢 **Saturday baseline:** 5 data point (avg Rp 62.4M, range Rp 51.8M–67.8M). 🟢 **Thursday baseline:** 6 data point (avg Rp 29.3M, range Rp 20.3M–40.6M). 🟢 **Friday baseline:** 5 data point (avg Rp 29.2M, range Rp 27.1M–31.6M). 🟢 **Wednesday baseline:** 7 data point (avg Rp 27.8M, range Rp 20.7M–36.8M). 🟢 **Tuesday baseline:** 6 data point (excl outlier, avg Rp 27.2M). 🟢 **Monday baseline:** 6 data point (excl outlier: avg Rp 28.3M). 🟢 **Sunday baseline:** 7 data point (avg Rp 69.6M, range Rp 58.9M–77.6M). 🟢 **5★ di 87.1% (122/140 unik)**. Tidak ada review baru sejak Jun 30 (last review: Irfan Rustaman 5★ Jun 30). 🔴 **REVIEW STALL:** 17 hari tanpa review baru (Jun 30 – Jul 16). Threshold EXCEEDED dua digit. Pipeline last_check stuck (15 hari stale).
