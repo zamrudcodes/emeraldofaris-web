@@ -95,4 +95,4 @@ Dari tracked sample (Nov 2025 - Jun 2026):
 | ⚠️ ESB ingest gap Jun 19-20 | 2 hari sales missing | Investigasi ingest cron |
 | 🔴 3★ streak broken | 14 hari bersih → Mochammad Fajar (Jun 28). Jun 29 bersih | Monitor terus |
 | ⚠️ Dedup correction | 149→140 (9 duplikat). Triple-key dedup diterapkan | Recalculate percentages |
-| 🟡 Review stall | 18 hari tanpa review baru (Jun 30 – Jul 17) | 🔴 CRITICAL — pipeline kemungkinan mati |
+| 🟡 Review stall | 19 hari tanpa review baru (Jun 30 – Jul 18) | 🔴 CRITICAL — pipeline kemungkinan mati |
