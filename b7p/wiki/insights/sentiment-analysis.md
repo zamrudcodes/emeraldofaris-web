@@ -2,7 +2,7 @@
 
 *Compiled from: [[raw/reviews/google_reviews]], [[raw/reviews/lemon8_review]], [[raw/social/social_mentions]]*
 *Backlinks: [[index]], [[customers/review-synthesis]], [[insights/product-moat]]*
-*Last updated: 2026-07-18*
+*Last updated: 2026-07-19*
 
 ---
 
@@ -49,7 +49,7 @@ Dari 140 review unik terlacak (149 raw, 9 duplikat, Nov 2025 - Jun 2026):
 - 5 review 3★ (3.6%)
 - 1 review 2★ (0.7%)
 - 1 review 1★ (0.7%)
-- **Trend: Positif stabil.** ⚠️ Dedup correction: 149→140 (9 duplikat via triple-key). 5★: 87.1%. Tidak ada review baru sejak Jun 29. Total tracked: 140 unik. 🔴 **REVIEW STALL: 19 hari (Jun 30 – Jul 18). Critical.**
+- **Trend: Positif stabil.** ⚠️ Dedup correction: 149→140 (9 duplikat via triple-key). 5★: 87.1%. Tidak ada review baru sejak Jun 29. Total tracked: 140 unik. 🔴 **REVIEW STALL: 20 hari (Jun 30 – Jul 19). Critical.**
 - 🆕 **Review Jun 29:** 4 review baru — 3× 5★ (Alif Lebrian, Joko ipb117, Dewagedepuja Trisuda), 1× 4★ (nanda ivana). Hari Senin, velocity rendah (4 review) — normal.
 - 🔴 **FIRST-EVER 1★:** raudhah hayati (Jun 28) — severity CRITICAL. Tanpa preseden. Teks tidak tersedia — prioritas #1 untuk investigasi. Tidak ada 1★ baru Jun 29.
 - 🔴 **3★ streak di 14 hari BROKEN:** Mochammad Fajar (Jun 28). Tidak ada 3★ baru Jun 29 — situasi terkendali untuk sekarang. Monitor terus.
@@ -85,7 +85,7 @@ Dari 140 review unik terlacak (149 raw, 9 duplikat, Nov 2025 - Jun 2026):
 
 ### Health Check Flags
 - 🔴 **ANOMALI SALES:** Rp 79.85M Selasa Jun 16 — 3.8× baseline Selasa. Masih unresolved.
-- 🔴 **REVIEW STALL 19 HARI:** Jun 30 – Jul 18. Pipeline kemungkinan mati. **CRITICAL.**
+- 🔴 **REVIEW STALL 20 HARI:** Jun 30 – Jul 19. Pipeline kemungkinan mati. **CRITICAL.**
 - 🔴 **FIRST-EVER 1★:** raudhah hayati (Jun 28) — CRITICAL, tanpa preseden. Teks tidak tersedia.
 - 🔴 **3★ STREAK BROKEN:** Mochammad Fajar (Jun 28) — 14 hari bersih berakhir. Tapi Jun 29 bersih — situasi terkendali. Monitor terus.
 - 🔴 **First-ever 2★:** Andi Mohamadyusuf (Jun 12) — teks tidak tersedia
@@ -101,7 +101,7 @@ Dari 140 review unik terlacak (149 raw, 9 duplikat, Nov 2025 - Jun 2026):
 | 🟢 **ESB sales:** 46 hari (May 31 – Jul 16). 🔴 Jun 16 Selasa Rp 79.9M outlier unresolved. ⚠️ Jun 19-20 missing. 🟢 Thursday 7 data point (avg Rp 28.4M). 🟢 Wednesday 7 data point (avg Rp 27.8M). 🟢 Tuesday 6 data point (excl outlier: avg Rp 27.2M). 🟢 Sunday 7 data point (avg Rp 69.6M). Saturday 5 data point (avg Rp 62.4M). Monday 7 data point. Friday 5 data point (avg Rp 29.2M).
 - ⚠️ **Pending:** Korelasi review ↔ revenue — butuh analisis lebih dalam. Jun 21: 15 review baru (semua 5★) tapi sales Sunday terendah (Rp 61.9M) — kontradiksi menarik.
 - ⚠️ **Dedup correction:** 149→140. Duplikat baru: Dhea Syafitri (Jun 25). Total 9 duplikat.
-| 🔴 **Review velocity stall:** 19 hari tanpa review baru (Jun 30 – Jul 18). 🔴 CRITICAL — pipeline kemungkinan mati. |
+- ⚠️ **Review velocity stall:** 20 hari tanpa review baru (Jun 30 – Jul 19). 🔴 CRITICAL — pipeline kemungkinan mati. |
 
 ### Questions for Further Research
 1. **🔴 INVESTIGASI:** Apa isi review 1★ raudhah hayati? Ini prioritas #1.

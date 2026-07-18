@@ -1,6 +1,6 @@
 # B7P Brand Intelligence Wiki — Master Index
 
-*Auto-compiled by LLM from `raw/` data. Last updated: 2026-07-18.*
+*Auto-compiled by LLM from `raw/` data. Last updated: 2026-07-19.*
 
 ## Wiki Structure
 
@@ -80,5 +80,5 @@
 ## Wiki Health
 - **Articles:** 6
 - **Backlinks:** cross-referenced antar artikel
-| **Data freshness:** June–July 2026 (updated Jul 18)
-|- **Coverage gaps:** Review teks tidak tersedia untuk semua rating — gak bisa analisis konten review. 🟢 ESB sales 46 hari (May 31 – Jul 16). ⚠️ Jun 19 (Fri) & Jun 20 (Sat) missing dari ESB ingest. 🔴 **ANOMALI SALES:** Rp 79.9M Selasa Jun 16 — masih unresolved. 🆕 **Kamis Jul 16 Rp 22.7M:** Thursday ke-7 (excl outlier) — 158 bills, AOV Rp 143K. 20.0% di bawah Thursday avg (Rp 28.4M). ⚠️ Thursday low — normal weekday range. 🆕 **Rabu Jul 15 Rp 21.1M:** Wednesday ke-7 — 151 bills, AOV Rp 139.6K. 27.2% di bawah Wednesday avg (Rp 27.8M). ⚠️ Rabu terendah kedua setelah Jun 24 (Rp 20.7M). 🆕 **Selasa Jul 14 Rp 23.3M:** Tuesday ke-6 (excl outlier) — 154 bills, AOV Rp 151K. 15.5% di bawah Tuesday avg (Rp 27.2M). 🆕 **Senin Jul 13 Rp 21.2M:** Monday ke-6 (excl outlier) — 158 bills, AOV Rp 133.9K. 28.8% di bawah Monday avg (Rp 28.3M). ⚠️ Monday low — pola weekday normal (Jun 22 Rp 22.1M). 🟢 **Saturday baseline:** 5 data point (avg Rp 62.4M, range Rp 51.8M–67.8M). 🟢 **Thursday baseline:** 7 data point (avg Rp 28.4M, range Rp 20.3M–40.6M). 🟢 **Friday baseline:** 5 data point (avg Rp 29.2M, range Rp 27.1M–31.6M). 🟢 **Wednesday baseline:** 7 data point (avg Rp 27.8M, range Rp 20.7M–36.8M). 🟢 **Tuesday baseline:** 6 data point (excl outlier, avg Rp 27.2M). 🟢 **Monday baseline:** 6 data point (excl outlier: avg Rp 28.3M). 🟢 **Sunday baseline:** 7 data point (avg Rp 69.6M, range Rp 58.9M–77.6M). 🟢 **5★ di 87.1% (122/140 unik)**. Tidak ada review baru sejak Jun 30 (last review: Alif Lebrian 5★ Jun 29). 🔴 **REVIEW STALL:** 19 hari tanpa review baru (Jun 30 – Jul 18). Threshold EXCEEDED dua digit. Pipeline last_check stuck (17 hari stale).
+| **Data freshness:** June–July 2026 (updated Jul 19)
+|- **Coverage gaps:** Review teks tidak tersedia untuk semua rating — gak bisa analisis konten review. 🟢 ESB sales 46 hari (May 31 – Jul 16). ⚠️ Jun 19 (Fri) & Jun 20 (Sat) missing dari ESB ingest. 🔴 **ANOMALI SALES:** Rp 79.9M Selasa Jun 16 — masih unresolved. 🔴 **ESB STALL:** 3 hari tanpa sales baru (Jul 17–19). Pipeline kemungkinan ingest mati. 🔴 **REVIEW STALL:** 20 hari tanpa review baru (Jun 30 – Jul 19).
